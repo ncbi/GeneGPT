@@ -1,0 +1,552 @@
+[
+    [
+        "What is the official gene symbol of LMP10?",
+        "PSMB10",
+        "\nAnswer: LMP10",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of LMP10?\n",
+                "\nAnswer: LMP10"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SNAT6?",
+        "SLC38A6",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of SNAT6?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of IMD20?",
+        "FCGR3A",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of IMD20?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C20orf195?",
+        "FNDC11",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of C20orf195?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CXorf40B?",
+        "EOLA2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of CXorf40B?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of QSCN6L1?",
+        "QSOX2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of QSCN6L1?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of OR11-86?",
+        "OR10A2",
+        "\nAnswer: OR11-86 is the official gene symbol of OR11-86.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of OR11-86?\n",
+                "\nAnswer: OR11-86 is the official gene symbol of OR11-86."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of NPAP60L?",
+        "NUP50",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of NPAP60L?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of AF10?",
+        "MLLT10",
+        "\nAnswer: AF10",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of AF10?\n",
+                "\nAnswer: AF10"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of bMRP63?",
+        "MRPL57",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of bMRP63?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of HsT1192?",
+        "SYT4",
+        "Answer: HsT1192 is the official gene symbol of HsT1192.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of HsT1192?\n",
+                "Answer: HsT1192 is the official gene symbol of HsT1192."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of ZNF482?",
+        "ZBTB6",
+        "\nAnswer: ZNF482",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of ZNF482?\n",
+                "\nAnswer: ZNF482"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PTH1?",
+        "PTH",
+        "\nAnswer: PTH1R",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PTH1?\n",
+                "\nAnswer: PTH1R"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of AGTIL?",
+        "ASIP",
+        "Answer: AGT",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of AGTIL?\n",
+                "Answer: AGT"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of LEP9?",
+        "LCE2A",
+        "\nAnswer: LEP9",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of LEP9?\n",
+                "\nAnswer: LEP9"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SEP3?",
+        "SEPTIN3",
+        "\nAnswer: SEP3 is the official gene symbol of the gene with database id: 83331.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of SEP3?\n",
+                "\nAnswer: SEP3 is the official gene symbol of the gene with database id: 83331."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FFDD3?",
+        "TWIST2",
+        "Answer: FFDD3",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of FFDD3?\n",
+                "Answer: FFDD3"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C6orf186?",
+        "METTL24",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of C6orf186?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of hCAP?",
+        "RNGTT",
+        "Answer: hCAP is the official gene symbol of HSD17B10.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of hCAP?\n",
+                "Answer: hCAP is the official gene symbol of HSD17B10."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CKBBP1?",
+        "RNF7",
+        "Answer: CKBBP1",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of CKBBP1?\n",
+                "Answer: CKBBP1"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of TFA?",
+        "F3",
+        "\nAnswer: TFA is the official gene symbol of the gene with database id: 7157.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of TFA?\n",
+                "\nAnswer: TFA is the official gene symbol of the gene with database id: 7157."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of BMSC-MCP?",
+        "SLC25A33",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of BMSC-MCP?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PCH3?",
+        "PCLO",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PCH3?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of OR11-75?",
+        "OR56A1",
+        "\nAnswer: OR11-75 is the official gene symbol of OR11-75.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of OR11-75?\n",
+                "\nAnswer: OR11-75 is the official gene symbol of OR11-75."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of RBAP1?",
+        "E2F1",
+        "\nAnswer: RBAP1",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of RBAP1?\n",
+                "\nAnswer: RBAP1"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of DCSCRIPT?",
+        "ZNF366",
+        "Answer: DCSCRIPT",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of DCSCRIPT?\n",
+                "Answer: DCSCRIPT"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of 15-LOX?",
+        "ALOX15",
+        "\nAnswer: 15-LOX",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of 15-LOX?\n",
+                "\nAnswer: 15-LOX"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CT116?",
+        "LYPD6B",
+        "Answer: CT116 is the official gene symbol of the gene with database id: \"100134834\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of CT116?\n",
+                "Answer: CT116 is the official gene symbol of the gene with database id: \"100134834\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PKCL?",
+        "PRKCH",
+        "\nAnswer: PKCL",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PKCL?\n",
+                "\nAnswer: PKCL"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SGEF?",
+        "ARHGEF26",
+        "\nAnswer: SGEF",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of SGEF?\n",
+                "\nAnswer: SGEF"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CTGLF6?",
+        "AGAP9",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of CTGLF6?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FAP9?",
+        "IFT22",
+        "\nAnswer: FAP9 is the official gene symbol of FAP9.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of FAP9?\n",
+                "\nAnswer: FAP9 is the official gene symbol of FAP9."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of MPS4B?",
+        "GLB1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of MPS4B?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of LSDMCA2?",
+        "COX7B",
+        "Answer: LSDMCA2",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of LSDMCA2?\n",
+                "Answer: LSDMCA2"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PLK-5?",
+        "PLK5",
+        "\nAnswer: PLK5",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PLK-5?\n",
+                "\nAnswer: PLK5"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C20orf86?",
+        "ANKRD60",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of C20orf86?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of GalNAc-T4?",
+        "POC1B-GALNT4",
+        "Answer: GALNT4",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of GalNAc-T4?\n",
+                "Answer: GALNT4"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of NEDCHS?",
+        "INTS8",
+        "Answer: NEDCHS",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of NEDCHS?\n",
+                "Answer: NEDCHS"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PCPB?",
+        "CPB2",
+        "\nAnswer: PCPB is the official gene symbol of PCBP1.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PCPB?\n",
+                "\nAnswer: PCPB is the official gene symbol of PCBP1."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PFDN3?",
+        "VBP1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PFDN3?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of TSH2B?",
+        "H2BC1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of TSH2B?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of RSG1?",
+        "CPLANE2",
+        "Answer: RSG1",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of RSG1?\n",
+                "Answer: RSG1"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of M12.219?",
+        "ADAMDEC1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of M12.219?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of beta3Gn-T8?",
+        "B3GNT8",
+        "Answer: SLC6A20",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of beta3Gn-T8?\n",
+                "Answer: SLC6A20"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of ASV?",
+        "SRC",
+        "Answer: ASV",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of ASV?\n",
+                "Answer: ASV"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C11orf27?",
+        "UBTFL1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of C11orf27?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of GCS1?",
+        "MOGS",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of GCS1?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FAM214B?",
+        "ATOSB",
+        "Answer: FAM214B",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of FAM214B?\n",
+                "Answer: FAM214B"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CTTNBP1?",
+        "SHANK2",
+        "\nAnswer: CTTNBP2",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of CTTNBP1?\n",
+                "\nAnswer: CTTNBP2"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PTP-SL?",
+        "PTPRR",
+        "\nAnswer: PTPN11",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What is the official gene symbol of PTP-SL?\n",
+                "\nAnswer: PTPN11"
+            ]
+        ]
+    ]
+]

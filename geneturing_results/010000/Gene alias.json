@@ -1,0 +1,556 @@
+[
+    [
+        "What is the official gene symbol of LMP10?",
+        "PSMB10",
+        "\nHint: You can use the following URL to get the gene symbol of LMP10:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=LMP10]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of LMP10?\n",
+                "\nHint: You can use the following URL to get the gene symbol of LMP10:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=LMP10]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SNAT6?",
+        "SLC38A6",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of SNAT6?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of IMD20?",
+        "FCGR3A",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of IMD20?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C20orf195?",
+        "FNDC11",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of C20orf195?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CXorf40B?",
+        "EOLA2",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of CXorf40B?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of QSCN6L1?",
+        "QSOX2",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of QSCN6L1?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of OR11-86?",
+        "OR10A2",
+        "\nHint: You can use the following URL to get the gene symbol of OR11-86:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=OR11-86]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of OR11-86?\n",
+                "\nHint: You can use the following URL to get the gene symbol of OR11-86:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=OR11-86]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of NPAP60L?",
+        "NUP50",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of NPAP60L?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of AF10?",
+        "MLLT10",
+        "\nHint: You can use the following URL to get the chromosome location of AF10:\n[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Put&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&QUERY=ATGAGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGG",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of AF10?\n",
+                "\nHint: You can use the following URL to get the gene symbol of AF10:\n[https://www.ncbi.nlm.nih.gov/gene/?term=AF10]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of AF10?\n\nHint: You can use the following URL to get the gene symbol of AF10:\n[https://www.ncbi.nlm.nih.gov/gene/?term=AF10]->[b'<?xml version=\"1.0\" encoding=\"utf-8\"?>\\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\">\\n    <head xmlns:xi=\"http://www.w3.org/2001/XInclude\"><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\\n    <!-- meta -->\\n    <meta name=\"ncbigrid\" content=\"isPagable:true, pageSize: 20,isZebra:true\" /><meta name=\"robots\" content=\"noindex,nofollow,noarchive\" />\\n<meta name=\"ncbi_app\" content=\"entrez\" /><meta name=\"ncbi_db\" content=\"gene\" /><meta name=\"ncbi_term\" content=\"af10\" /><meta name=\"ncbi_report\" content=\"tabular\" /><meta name=\"ncbi_format\" content=\"html\" /><meta name=\"ncbi_pagesize\" content=\"20\" /><meta name=\"ncbi_sortorder\" content=\"default\" /><meta name=\"ncbi_pageno\" content=\"1\" /><meta name=\"ncbi_resultcount\" content=\"936\" /><meta name=\"ncbi_op\" content=\"search\" /><meta name=\"ncbi_pdid\" content=\"tabular\" /><meta name=\"ncbi_sessionid\" content=\"CE898507452055F1_1608SID\" /><meta name=\"ncbi_filter\" content=\"all\" /><meta name=\"ncbi_stat\" content=\"false\" /><meta name=\"ncbi_hitstat\" content=\"false\" />\\n\\n    \\n    <!-- title -->\\n    <title>AF10 - Gene - NCBI</title>\\n    \\n    <!-- Common JS and CSS -->\\n    \\n\\t\\t<script type=\"text/javascript\">\\n\\t\\t    var ncbi_startTime = new Date();\\n\\t\\t</script>\\n\\t\\t<style>.async-hide { opacity: 0 !important} </style><script type=\"text/javascript\" src=\"/core/assets/kis/dist/kis_ga_gene.js\"></script><script type=\"text/javascript\" src=\"https://static.pubmed.gov/core/jig/1.15.3/js/jig.min.js\"></script>  \\n    \\n    <link xmlns=\"http://www.w3.org/1999/xhtml\" type=\"text/css\" rel=\"stylesheet\" href=\"//static.pubmed.gov/portal/portal3rc.fcgi/4208398/css/4207974/4206132.css\" xml:base=\"http://127.0.0.1/sites/static/header_footer/\" />    \\n<link rel=\"shortcut icon\" href=\"//www.ncbi.nlm.nih.gov/favicon.ico\" /><meta name=\"ncbi_phid\" content=\"CE898507451DEB31000000000648052B.m_20\" /><script type=\"text/javascript\"><!--\\nvar ScriptPath = \\'/portal/\\';\\nvar objHierarchy = {\"name\":\"EntrezSystem2\",\"type\":\"Layout\",\"realname\":\"EntrezSystem2\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.DbConnector\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.PEntrez.DbConnector\",\"shortname\":\"DbConnector\"},\\n{\"name\":\"EntrezSystem2.PEntrez.ParamContainer\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.PEntrez.ParamContainer\",\"shortname\":\"ParamContainer\"},\\n{\"name\":\"EntrezSystem2.PEntrez.MyNcbi\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.PEntrez.MyNcbi\",\"shortname\":\"MyNcbi\"},\\n{\"name\":\"EntrezSystem2.PEntrez.UserPreferenceUrlParamContainer\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.PEntrez.UserPreferenceUrlParamContainer\",\"shortname\":\"UserPreferenceUrlParamContainer\"},\\n{\"name\":\"EntrezSystem2.PEntrez.GridProperty\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.PEntrez.GridProperty\",\"shortname\":\"GridProperty\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez.Gene\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.Gene.NoPortlet\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NoPortlet\",\"shortname\":\"NoPortlet\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_PageController\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_PageController\",\"shortname\":\"Gene_PageController\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_SearchBar\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_SearchBar\",\"shortname\":\"Gene_SearchBar\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Entrez_BotRequest\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.Entrez_BotRequest\",\"shortname\":\"Entrez_BotRequest\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Entrez_LimitsTab\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.Entrez_LimitsTab\",\"shortname\":\"Entrez_LimitsTab\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_Facets\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_Facets\",\"shortname\":\"Gene_Facets\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Entrez_Clipboard\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.Entrez_Clipboard\",\"shortname\":\"Entrez_Clipboard\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_StaticParts\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_StaticParts\",\"shortname\":\"Gene_StaticParts\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Entrez_Messages\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.Entrez_Messages\",\"shortname\":\"Entrez_Messages\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.NcbiJSCheck\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NcbiJSCheck\",\"shortname\":\"NcbiJSCheck\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic.Footer_ExtraData\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic.Footer_ExtraData\",\"shortname\":\"Footer_ExtraData\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic.NCBIFooter_dynamic\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIBreadcrumbs\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIBreadcrumbs\",\"shortname\":\"NCBIBreadcrumbs\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIHelpDesk\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIHelpDesk\",\"shortname\":\"NCBIHelpDesk\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIApplog_NoScript_Ping\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Entrez_Database.NCBIFooter_dynamic.NCBIFooter_dynamic.NCBIApplog_NoScript_Ping\",\"shortname\":\"NCBIApplog_NoScript_Ping\"}]}]},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_SetDCMS\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_SetDCMS\",\"shortname\":\"Gene_SetDCMS\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_MultiItemSupl\",\"type\":\"Cluster\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Entrez_MultiItemSupl\",\\n\"children\":[{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_MultiItemSupl.RelatedDataLinks\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Entrez_MultiItemSupl.RelatedDataLinks\",\"shortname\":\"RelatedDataLinks\"}]},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.blankToolPanel\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.blankToolPanel\",\"shortname\":\"blankToolPanel\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Gene_ResultsController\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Gene_ResultsController\",\"shortname\":\"Gene_ResultsController\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_Filters\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Entrez_Filters\",\"shortname\":\"Entrez_Filters\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_Pager\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Entrez_Pager\",\"shortname\":\"Entrez_Pager\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Gene_DisplayBar\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Gene_DisplayBar\",\"shortname\":\"Gene_DisplayBar\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.HelpFormAttributes\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.HelpFormAttributes\",\"shortname\":\"HelpFormAttributes\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_Collections\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Entrez_Collections\",\"shortname\":\"Entrez_Collections\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.GeneSpellCheck\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.GeneSpellCheck\",\"shortname\":\"GeneSpellCheck\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.SearchEngineReferralCheck\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.SearchEngineReferralCheck\",\"shortname\":\"SearchEngineReferralCheck\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.MultiSensorPortlet\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.MultiSensorPortlet\",\"shortname\":\"MultiSensorPortlet\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.WrongDbSensor\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.WrongDbSensor\",\"shortname\":\"WrongDbSensor\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.KnowledgePanel\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.KnowledgePanel\",\"shortname\":\"KnowledgePanel\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.HistoryDisplay\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.HistoryDisplay\",\"shortname\":\"HistoryDisplay\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Discovery_SearchDetails\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Entrez_ResultsPanel.Discovery_SearchDetails\",\"shortname\":\"Discovery_SearchDetails\"},\\n{\"name\":\"EntrezSystem2.PEntrez.Gene.Gene_ResultsPanel.Taxport\",\"type\":\"Portlet\",\"realname\":\"EntrezSystem2.PEntrez.G']\n",
+                "\nHint: You can use the following URL to get the chromosome location of AF10:\n[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Put&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&QUERY=ATGAGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGGTGG"
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of bMRP63?",
+        "MRPL57",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of bMRP63?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of HsT1192?",
+        "SYT4",
+        "\nHint: You can use the following URL to get the gene symbol of a specific gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of HsT1192?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a specific gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of ZNF482?",
+        "ZBTB6",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of ZNF482?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PTH1?",
+        "PTH",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PTH1?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of AGTIL?",
+        "ASIP",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of AGTIL?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of LEP9?",
+        "LCE2A",
+        "\nHint: You can use the following URL to get the gene symbol of LEP9:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=LEP9]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of LEP9?\n",
+                "\nHint: You can use the following URL to get the gene symbol of LEP9:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=LEP9]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SEP3?",
+        "SEPTIN3",
+        "\nHint: You can use the following URL to get the gene symbol of SEP3:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=SEP3]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of SEP3?\n",
+                "\nHint: You can use the following URL to get the gene symbol of SEP3:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=SEP3]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FFDD3?",
+        "TWIST2",
+        "\nHint: You can use the following URL to get the gene symbol of FFDD3:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=FFDD3]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of FFDD3?\n",
+                "\nHint: You can use the following URL to get the gene symbol of FFDD3:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=FFDD3]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C6orf186?",
+        "METTL24",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of C6orf186?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of hCAP?",
+        "RNGTT",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of hCAP?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CKBBP1?",
+        "RNF7",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of CKBBP1?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of TFA?",
+        "F3",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of TFA?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of BMSC-MCP?",
+        "SLC25A33",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of BMSC-MCP?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PCH3?",
+        "PCLO",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PCH3?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of OR11-75?",
+        "OR56A1",
+        "\nHint: You can use the following URL to get the gene symbol of OR11-75:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=OR11-75]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of OR11-75?\n",
+                "\nHint: You can use the following URL to get the gene symbol of OR11-75:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=OR11-75]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of RBAP1?",
+        "E2F1",
+        "\nHint: You can use the following URL to get the gene information of RBAP1:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=RBAP1]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of RBAP1?\n",
+                "\nHint: You can use the following URL to get the gene information of RBAP1:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=RBAP1]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of DCSCRIPT?",
+        "ZNF366",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of DCSCRIPT?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of 15-LOX?",
+        "ALOX15",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of 15-LOX?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CT116?",
+        "LYPD6B",
+        "\nHint: You can use the following URL to get the gene symbol of CT116:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=CT116]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of CT116?\n",
+                "\nHint: You can use the following URL to get the gene symbol of CT116:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=CT116]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PKCL?",
+        "PRKCH",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PKCL?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of SGEF?",
+        "ARHGEF26",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of SGEF?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CTGLF6?",
+        "AGAP9",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of CTGLF6?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FAP9?",
+        "IFT22",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of FAP9?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of MPS4B?",
+        "GLB1",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of MPS4B?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of LSDMCA2?",
+        "COX7B",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of LSDMCA2?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PLK-5?",
+        "PLK5",
+        "\nHint: You can use the following URL to get the gene symbol of PLK-5:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=PLK-5]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PLK-5?\n",
+                "\nHint: You can use the following URL to get the gene symbol of PLK-5:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=PLK-5]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C20orf86?",
+        "ANKRD60",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of C20orf86?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of GalNAc-T4?",
+        "POC1B-GALNT4",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of GalNAc-T4?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of NEDCHS?",
+        "INTS8",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of NEDCHS?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PCPB?",
+        "CPB2",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PCPB?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PFDN3?",
+        "VBP1",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PFDN3?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of TSH2B?",
+        "H2BC1",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of TSH2B?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of RSG1?",
+        "CPLANE2",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of RSG1?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of M12.219?",
+        "ADAMDEC1",
+        "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=M12.219]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of M12.219?\n",
+                "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=M12.219]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of beta3Gn-T8?",
+        "B3GNT8",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of beta3Gn-T8?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of ASV?",
+        "SRC",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of ASV?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of C11orf27?",
+        "UBTFL1",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of C11orf27?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of GCS1?",
+        "MOGS",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of GCS1?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of FAM214B?",
+        "ATOSB",
+        "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of FAM214B?\n",
+                "\nHint: You can use the following API to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of CTTNBP1?",
+        "SHANK2",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of CTTNBP1?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "What is the official gene symbol of PTP-SL?",
+        "PTPRR",
+        "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What is the official gene symbol of PTP-SL?\n",
+                "\nHint: You can use the following URL to get the gene symbol of a gene:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_name}]\"."
+            ]
+        ]
+    ]
+]

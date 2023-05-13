@@ -1,0 +1,552 @@
+[
+    [
+        "Is ATP5F1EP2 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is ATP5F1EP2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC124907753 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC124907753 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is AMD1P4 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is AMD1P4 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is NODAL a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is NODAL a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is MIR4436B2 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is MIR4436B2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is NAXE a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is NAXE a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC124909477 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC124909477 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LINC01560 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LINC01560 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is UCKL1-AS1 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is UCKL1-AS1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is MIR6843 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is MIR6843 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is RPL7AP58 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RPL7AP58 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is SERF2 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is SERF2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC124907937 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC124907937 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-1193P a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RNU6-1193P a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC124903168 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC124903168 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is HMGB1P9 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is HMGB1P9 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC100420990 a protein-coding gene?",
+        "NA",
+        "Answer: Yes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC100420990 a protein-coding gene?\n",
+                "Answer: Yes."
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-1212P a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RNU6-1212P a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CPVL-AS2 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CPVL-AS2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is NPFFR1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is NPFFR1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CYP4F10P a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CYP4F10P a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is FANCG a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is FANCG a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CMKLR2 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CMKLR2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is SSBP3-AS1 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is SSBP3-AS1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC100419835 a protein-coding gene?",
+        "NA",
+        "Answer: Yes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC100419835 a protein-coding gene?\n",
+                "Answer: Yes."
+            ]
+        ]
+    ],
+    [
+        "Is RNU7-171P a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RNU7-171P a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is RPL34P34 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RPL34P34 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC100526841 a protein-coding gene?",
+        "NA",
+        "Answer: Yes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC100526841 a protein-coding gene?\n",
+                "Answer: Yes."
+            ]
+        ]
+    ],
+    [
+        "Is TTLL1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is TTLL1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CORO1A-AS1 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CORO1A-AS1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is SPARC a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is SPARC a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC100129457 a protein-coding gene?",
+        "NA",
+        "Answer: Yes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC100129457 a protein-coding gene?\n",
+                "Answer: Yes."
+            ]
+        ]
+    ],
+    [
+        "Is HOTAIR a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is HOTAIR a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CAAP1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CAAP1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is PIGCP1 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is PIGCP1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LINC01054 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LINC01054 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is SPOP a protein-coding gene?",
+        "TRUE",
+        "\nStep 1: Call esearch to get the database id(s) of the search term \"SPOP\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is SPOP a protein-coding gene?\n",
+                "\nStep 1: Call esearch to get the database id(s) of the search term \"SPOP\"."
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-746P a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RNU6-746P a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is POLE4P1 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is POLE4P1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is RASSF3-DT a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RASSF3-DT a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is RPL31P19 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is RPL31P19 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is FBXO3-DT a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is FBXO3-DT a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is DNAJB6P2 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is DNAJB6P2 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LINC02865 a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LINC02865 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is AFF1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is AFF1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is PWWP2A a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is PWWP2A a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC105369759 a protein-coding gene?",
+        "NA",
+        "Answer: Yes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is LOC105369759 a protein-coding gene?\n",
+                "Answer: Yes."
+            ]
+        ]
+    ],
+    [
+        "Is B3GAT1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is B3GAT1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is MIR22HG a protein-coding gene?",
+        "NA",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is MIR22HG a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Is CGGBP1 a protein-coding gene?",
+        "TRUE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Is CGGBP1 a protein-coding gene?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ]
+]

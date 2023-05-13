@@ -1,0 +1,552 @@
+[
+    [
+        "Is ATP5F1EP2 a protein-coding gene?",
+        "NA",
+        "\nHint: ATP5F1EP2 is a gene name.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is ATP5F1EP2 a protein-coding gene?\n",
+                "\nHint: ATP5F1EP2 is a gene name."
+            ]
+        ]
+    ],
+    [
+        "Is LOC124907753 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC124907753 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Is AMD1P4 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=AMD1P4]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is AMD1P4 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=AMD1P4]\""
+            ]
+        ]
+    ],
+    [
+        "Is NODAL a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NODAL[gene]&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is NODAL a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NODAL[gene]&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is MIR4436B2 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR4436B2]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is MIR4436B2 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR4436B2]\""
+            ]
+        ]
+    ],
+    [
+        "Is NAXE a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NAXE]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is NAXE a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NAXE]\"."
+            ]
+        ]
+    ],
+    [
+        "Is LOC124909477 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC124909477 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is LINC01560 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC01560]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LINC01560 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC01560]\""
+            ]
+        ]
+    ],
+    [
+        "Is UCKL1-AS1 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=UCKL1-AS1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is UCKL1-AS1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=UCKL1-AS1]\""
+            ]
+        ]
+    ],
+    [
+        "Is MIR6843 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR6843]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is MIR6843 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR6843]\""
+            ]
+        ]
+    ],
+    [
+        "Is RPL7AP58 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL7AP58]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RPL7AP58 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL7AP58]\""
+            ]
+        ]
+    ],
+    [
+        "Is SERF2 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SERF2]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is SERF2 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SERF2]\""
+            ]
+        ]
+    ],
+    [
+        "Is LOC124907937 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC124907937 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-1193P a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-1193P]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RNU6-1193P a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-1193P]\"."
+            ]
+        ]
+    ],
+    [
+        "Is LOC124903168 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC124903168 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is HMGB1P9 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=HMGB1P9]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is HMGB1P9 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=HMGB1P9]\""
+            ]
+        ]
+    ],
+    [
+        "Is LOC100420990 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC100420990 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-1212P a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-1212P]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RNU6-1212P a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-1212P]\"."
+            ]
+        ]
+    ],
+    [
+        "Is CPVL-AS2 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CPVL-AS2]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CPVL-AS2 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CPVL-AS2]\""
+            ]
+        ]
+    ],
+    [
+        "Is NPFFR1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NPFFR1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is NPFFR1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=NPFFR1]\""
+            ]
+        ]
+    ],
+    [
+        "Is CYP4F10P a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CYP4F10P]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CYP4F10P a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CYP4F10P]\""
+            ]
+        ]
+    ],
+    [
+        "Is FANCG a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=FANCG&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is FANCG a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=FANCG&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is CMKLR2 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CMKLR2]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CMKLR2 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CMKLR2]\""
+            ]
+        ]
+    ],
+    [
+        "Is SSBP3-AS1 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SSBP3-AS1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is SSBP3-AS1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SSBP3-AS1]\""
+            ]
+        ]
+    ],
+    [
+        "Is LOC100419835 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC100419835 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is RNU7-171P a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following code to get the sequence of RNU7-171P:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RNU7-171P a protein-coding gene?\n",
+                "\nHint: You can use the following code to get the sequence of RNU7-171P:"
+            ]
+        ]
+    ],
+    [
+        "Is RPL34P34 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL34P34]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RPL34P34 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL34P34]\""
+            ]
+        ]
+    ],
+    [
+        "Is LOC100526841 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LOC100526841]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC100526841 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LOC100526841]\"."
+            ]
+        ]
+    ],
+    [
+        "Is TTLL1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=TTLL1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is TTLL1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=TTLL1]\""
+            ]
+        ]
+    ],
+    [
+        "Is CORO1A-AS1 a protein-coding gene?",
+        "NA",
+        "\nHint: CORO1A-AS1 is a non-coding RNA.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CORO1A-AS1 a protein-coding gene?\n",
+                "\nHint: CORO1A-AS1 is a non-coding RNA."
+            ]
+        ]
+    ],
+    [
+        "Is SPARC a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following code to get the sequence of SPARC gene:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is SPARC a protein-coding gene?\n",
+                "\nHint: You can use the following code to get the sequence of SPARC gene:"
+            ]
+        ]
+    ],
+    [
+        "Is LOC100129457 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC100129457 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is HOTAIR a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following code to get the gene name from the XML result.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is HOTAIR a protein-coding gene?\n",
+                "\nHint: You can use the following code to get the gene name from the XML result."
+            ]
+        ]
+    ],
+    [
+        "Is CAAP1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CAAP1]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CAAP1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CAAP1]\"."
+            ]
+        ]
+    ],
+    [
+        "Is PIGCP1 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=PIGCP1]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is PIGCP1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=PIGCP1]\"."
+            ]
+        ]
+    ],
+    [
+        "Is LINC01054 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC01054]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LINC01054 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC01054]\""
+            ]
+        ]
+    ],
+    [
+        "Is SPOP a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SPOP[gene]&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is SPOP a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=SPOP[gene]&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Is RNU6-746P a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-746P]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RNU6-746P a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RNU6-746P]\"."
+            ]
+        ]
+    ],
+    [
+        "Is POLE4P1 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=POLE4P1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is POLE4P1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=POLE4P1]\""
+            ]
+        ]
+    ],
+    [
+        "Is RASSF3-DT a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RASSF3-DT]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RASSF3-DT a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RASSF3-DT]\""
+            ]
+        ]
+    ],
+    [
+        "Is RPL31P19 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL31P19]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is RPL31P19 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=RPL31P19]\""
+            ]
+        ]
+    ],
+    [
+        "Is FBXO3-DT a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=FBXO3-DT]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is FBXO3-DT a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=FBXO3-DT]\""
+            ]
+        ]
+    ],
+    [
+        "Is DNAJB6P2 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=DNAJB6P2]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is DNAJB6P2 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=DNAJB6P2]\""
+            ]
+        ]
+    ],
+    [
+        "Is LINC02865 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC02865]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LINC02865 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=LINC02865]\""
+            ]
+        ]
+    ],
+    [
+        "Is AFF1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=AFF1]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is AFF1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=AFF1]\"."
+            ]
+        ]
+    ],
+    [
+        "Is PWWP2A a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=PWWP2A]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is PWWP2A a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=PWWP2A]\""
+            ]
+        ]
+    ],
+    [
+        "Is LOC105369759 a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is LOC105369759 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Is B3GAT1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=B3GAT1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is B3GAT1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=B3GAT1]\""
+            ]
+        ]
+    ],
+    [
+        "Is MIR22HG a protein-coding gene?",
+        "NA",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR22HG]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is MIR22HG a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=MIR22HG]\""
+            ]
+        ]
+    ],
+    [
+        "Is CGGBP1 a protein-coding gene?",
+        "TRUE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CGGBP1]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Is CGGBP1 a protein-coding gene?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=CGGBP1]\""
+            ]
+        ]
+    ]
+]

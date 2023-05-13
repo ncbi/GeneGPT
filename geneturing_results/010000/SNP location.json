@@ -1,0 +1,552 @@
+[
+    [
+        "Which chromosome does SNP rs1430464868 locate on human genome?",
+        "chr13",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1430464868:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1430464868 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1430464868:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs545148486 locate on human genome?",
+        "chr16",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs545148486:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs545148486 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs545148486:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs895485955 locate on human genome?",
+        "chr19",
+        "\nHint: You can use the following code to get the sequence of SNP rs895485955:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs895485955 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs895485955:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1376217783 locate on human genome?",
+        "chr11",
+        "\nHint: You can use the following code to get the sequence of SNP rs1376217783.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1376217783 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1376217783."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1420724913 locate on human genome?",
+        "chr16",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1420724913:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1420724913 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1420724913:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs992486373 locate on human genome?",
+        "chr15",
+        "\nHint: You can use the following code to get the sequence of SNP rs992486373.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs992486373 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs992486373."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs975300764 locate on human genome?",
+        "chr4",
+        "\nHint: You can use the following code to get the sequence of SNP rs975300764.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs975300764 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs975300764."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs993131098 locate on human genome?",
+        "chr14",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs993131098:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs993131098 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs993131098:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs899883800 locate on human genome?",
+        "chr1",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs899883800:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs899883800 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs899883800:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs547832386 locate on human genome?",
+        "chr15",
+        "\nHint: You can use the following code to get the sequence of SNP rs547832386:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs547832386 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs547832386:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1212113267 locate on human genome?",
+        "chr22",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1212113267:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1212113267 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1212113267:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1435895561 locate on human genome?",
+        "chr19",
+        "\nHint: You can use the following code to get the sequence of SNP rs1435895561.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1435895561 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1435895561."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs427884 locate on human genome?",
+        "chr11",
+        "\nHint: You can use the following code to get the sequence of SNP rs427884:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs427884 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs427884:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1188706680 locate on human genome?",
+        "chr4",
+        "\nHint: You can use the following code to get the sequence of SNP rs1188706680.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1188706680 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1188706680."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1316126938 locate on human genome?",
+        "chr18",
+        "\nHint: You can use the following code to get the sequence of SNP rs1316126938.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1316126938 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1316126938."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1398189587 locate on human genome?",
+        "chr4",
+        "\nHint: You can use the following code to get the sequence of SNP rs1398189587.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1398189587 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1398189587."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1372020525 locate on human genome?",
+        "chr14",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1372020525:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1372020525 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1372020525:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs188137472 locate on human genome?",
+        "chr17",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs188137472:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs188137472 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs188137472:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1246801490 locate on human genome?",
+        "chr18",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1246801490:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1246801490 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1246801490:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs983633514 locate on human genome?",
+        "chr8",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs983633514:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs983633514 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs983633514:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1274126968 locate on human genome?",
+        "chr14",
+        "\nHint: You can use the following code to get the sequence of SNP rs1274126968.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1274126968 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1274126968."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1392348488 locate on human genome?",
+        "chr22",
+        "\nHint: You can use the following code to get the sequence of SNP rs1392348488.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1392348488 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1392348488."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs965556407 locate on human genome?",
+        "chr4",
+        "\nHint: You can use the following code to get the sequence of SNP rs965556407.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs965556407 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs965556407."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs999510594 locate on human genome?",
+        "chr16",
+        "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs999510594:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs999510594&rettype=fasta&retmode=text]\n2. You can use the following URL to get the DNA sequence of human chromosome 1:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000001.11&rettype=fasta&retmode=text]\n3. You can use the following URL to get the DNA sequence of human chromosome 2:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000002.12&rettype=fasta&retmode=text]\n4. You can use the following URL to get the DNA sequence of human chromosome 3:\n   [https://e",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs999510594 locate on human genome?\n",
+                "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs999510594:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs999510594&rettype=fasta&retmode=text]\n2. You can use the following URL to get the DNA sequence of human chromosome 1:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000001.11&rettype=fasta&retmode=text]\n3. You can use the following URL to get the DNA sequence of human chromosome 2:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000002.12&rettype=fasta&retmode=text]\n4. You can use the following URL to get the DNA sequence of human chromosome 3:\n   [https://e"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1412275115 locate on human genome?",
+        "chr17",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1412275115:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1412275115 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1412275115:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs951388492 locate on human genome?",
+        "chr14",
+        "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs951388492:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs951388492&rettype=fasta&retmode=text]\".\n2. You can use the following URL to get the chromosome location of a DNA sequence:\n\"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&RID=RID]\".\n3. You can use the following URL to get the chromosome location of a DNA sequence:\n\"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&RID=RID]\".\n4. You can use the",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs951388492 locate on human genome?\n",
+                "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs951388492:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs951388492&rettype=fasta&retmode=text]\".\n2. You can use the following URL to get the chromosome location of a DNA sequence:\n\"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&RID=RID]\".\n3. You can use the following URL to get the chromosome location of a DNA sequence:\n\"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD=Get&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE=XML&RID=RID]\".\n4. You can use the"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs967011458 locate on human genome?",
+        "chr4",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs967011458:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs967011458 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs967011458:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs555675816 locate on human genome?",
+        "chr8",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs555675816:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs555675816 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs555675816:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1333853138 locate on human genome?",
+        "chr22",
+        "\nHint: You can use the following code to get the sequence of SNP rs1333853138.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1333853138 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1333853138."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs910383316 locate on human genome?",
+        "chr1",
+        "\nHint:\n1. You can use the following DNA sequence to BLAST:\n   \"GCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCT",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs910383316 locate on human genome?\n",
+                "\nHint:\n1. You can use the following DNA sequence to BLAST:\n   \"GCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCT"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs563617526 locate on human genome?",
+        "chr11",
+        "\nHint: You can use the following code to get the sequence of SNP rs563617526:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs563617526 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs563617526:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1357251061 locate on human genome?",
+        "chr21",
+        "\nHint: You can use the following code to get the sequence of SNP rs1357251061.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1357251061 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1357251061."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1401416674 locate on human genome?",
+        "chr10",
+        "\nHint: You can use the following code to get the sequence of SNP rs1401416674:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1401416674 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1401416674:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs76491275 locate on human genome?",
+        "chr21",
+        "\nHint: You can use the following code to get the sequence of SNP rs76491275.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs76491275 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs76491275."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs141272872 locate on human genome?",
+        "chr3",
+        "\nHint: You can use the following code to get the sequence of SNP rs141272872.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs141272872 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs141272872."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1281763211 locate on human genome?",
+        "chr4",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1281763211:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1281763211 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1281763211:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1278117191 locate on human genome?",
+        "chr20",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1278117191:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1278117191 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1278117191:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1239675264 locate on human genome?",
+        "chr21",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1239675264:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1239675264 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1239675264:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs866998836 locate on human genome?",
+        "chr17",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs866998836:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs866998836 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs866998836:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1228002921 locate on human genome?",
+        "chr2",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1228002921:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1228002921 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1228002921:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs976400036 locate on human genome?",
+        "chr19",
+        "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs976400036:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs976400036&rettype=fasta&retmode=text]\n2. You can use the following URL to get the DNA sequence of human chromosome 1:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000001.11&rettype=fasta&retmode=text]\n3. You can use the following URL to get the DNA sequence of human chromosome 2:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000002.12&rettype=fasta&retmode=text]\n4. You can use the following URL to get the DNA sequence of human chromosome 3:\n   [https://e",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs976400036 locate on human genome?\n",
+                "\nHint:\n1. You can use the following URL to get the DNA sequence of SNP rs976400036:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=snp&id=rs976400036&rettype=fasta&retmode=text]\n2. You can use the following URL to get the DNA sequence of human chromosome 1:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000001.11&rettype=fasta&retmode=text]\n3. You can use the following URL to get the DNA sequence of human chromosome 2:\n   [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=NC_000002.12&rettype=fasta&retmode=text]\n4. You can use the following URL to get the DNA sequence of human chromosome 3:\n   [https://e"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs397784008 locate on human genome?",
+        "chr15",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs397784008:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs397784008 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs397784008:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1170945868 locate on human genome?",
+        "chr22",
+        "\nHint: You can use the following code to get the sequence of SNP rs1170945868:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1170945868 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1170945868:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs990783431 locate on human genome?",
+        "chr3",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs990783431:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs990783431 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs990783431:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1041819671 locate on human genome?",
+        "chr5",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1041819671:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1041819671 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1041819671:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs139642661 locate on human genome?",
+        "chr14",
+        "\nHint: You can use the following code to get the sequence of SNP rs139642661.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs139642661 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs139642661."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1263053296 locate on human genome?",
+        "chr14",
+        "\nHint: You can use the following code to get the sequence of SNP rs1263053296.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1263053296 locate on human genome?\n",
+                "\nHint: You can use the following code to get the sequence of SNP rs1263053296."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1391145256 locate on human genome?",
+        "chr12",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs1391145256:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1391145256 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs1391145256:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1002944049 locate on human genome?",
+        "chr9",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1002944049:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs1002944049 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of SNP rs1002944049:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs962314907 locate on human genome?",
+        "chr5",
+        "\nHint:\n1. You can use the following code to get the DNA sequence of rs962314907:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which chromosome does SNP rs962314907 locate on human genome?\n",
+                "\nHint:\n1. You can use the following code to get the DNA sequence of rs962314907:"
+            ]
+        ]
+    ]
+]

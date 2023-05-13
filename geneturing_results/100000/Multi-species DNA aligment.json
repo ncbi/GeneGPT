@@ -1,0 +1,552 @@
+[
+    [
+        "Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AGGGGCAGCAAACACCGGGACACACCCATTCGTGCACTAATCAGAAACTTTTTTTTCTCAAATAATTCAAACAATCAAAATTGGTTTTTTCGAGCAAGGTGGGAAATTTTTCGAT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG",
+        "yeast",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CGTACACCATTGGTGCCAGTGACTGTGGTCAATTCGGTAGAAGTAGAGGTAAAAGTGCTGTTCCATGGCTCAGTTGTAGTTATGATGGTGCTAGCAGTTGTTGGAGTTCTGATGACAATGACGGTTTCGTCAGTTG\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT",
+        "worm",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GTGAAGATGATGGAGAATTTCATTGCCTGGCCACCAACCGTGCTGGAGACAAACTTAATTCCATTGAAGTTCAAGTAAACAATGCACCAAAAGGATCATTGTTTTTCTAT\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AAAAATAATTTCCCGTTAACTGTTAATAAGTATTAGCAGTGGCTCAATGCTGTAGTGACCTAATTTAAACAGAATCAAAGCGAGCTGTGCTAAAGGGCATGAGACAGTGGAATCTTTT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT",
+        "rat",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTCAATTCTCTGTAGGCAAGGATGGCTCATCACCATTATCACCCTGACGAGACTTAGAAACACCACGGAGACACACCTCTGGGCACGAGTGTTATGGTGTTT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC",
+        "mouse",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ATGCACAGCAGAGAGCCCCAGGGTGGACTGTAAACCTAAAGATGACCGAGGATCCTGTTGAGAAGATGCCAAAGCTAAGGAGAGAGACATGCGTGCAGACTCTCCGACACTCTGATTTGGGGTCTTGGGTTCTGAGGAGAAAGC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG",
+        "zebrafish",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GTTGATGTCAGCTCTCTACAGTTCATGACTGGACACACACACATAGCCCGTTTCATTAAAGAAATAGAATCCTAACAATGACATCATTGTAGAAGCTCCTGGGATGACAG\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC",
+        "yeast",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AAAAAAAAACTCCATAAAAACAACAAAAAGAGACGGACGCGGTTAACGAAGTAGTAACTTGATGAAAATGAATAAAAAAGAATAAAATTAACAAATAGAAAAGTTGAATCTTTTAAAACTCAAAGTCGCCATCGATCAAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC",
+        "zebrafish",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CTGCATTTACACAGCACACAGGAAAGGCGCAATGACCAGGAAAAAAAAAAAGAGCGGGTGCTGACTGACAGCTGATAATTAAAGAGTGTCTTTTCTCTATTCC\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TGAGAGTATGATATCTATGCTACGAGACCCATATTACATCTCATACATATGGCACACTTCTTAAATATATTGCTAGGGCATATTTCTTATCTTGAATCATGCTCAGTCTGCCTCAACAAATACTTCT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC",
+        "rat",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ACCCCACACTGTTTTTATAGAAAGCATTAAAGACTCCCAACCTGGGGCTGGGGATTTAGCTCAGTGGTAGAGCGCTTCCAAGGCCCTGGGTTCGGTCCCCAGCTCCGAAAAAAAAAAAAAAAAAAAGAAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA",
+        "yeast",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AATTATTCGCTGAAATTCAGTTAATATATGACGAAAATAAAATCATGAATCTAAATAAACCGTCCCAATACAAACAACACAGCGAATACAAAAATGTTTCTCGCACATCTCCAAACACGACTAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT",
+        "chicken",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CAGGAACAACAGCAAAACATTACTTCACGTGCAAACCGATCTGTAGGGCTAAAGAAGAGACCACACACAAGTTTCTCTGGATATTTTGAAACTATTTAATGAAGGAATTAAATTCCTGTAGCACAGCTCTAATAGTAGCCAT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT",
+        "rat",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTCATCGGTCTGAGCAGAGGATGAAGTTGCAAATGATGCAAGCAAAACAGCTCAAAGATGAAGAGGAAAAGGCTATACACAACAGGAGCAATGTAGATACAGAAGGT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA",
+        "mouse",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ACAAGGAAAGACACTAATACCAGTTCTTAGGTGGGGAGAGATTGCTCACATTCCCCTGGGGTTCCCTGCTCCACAGTACAAGAGAACACGCAATGGTCCGTGAGAGCAGAGAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA",
+        "yeast",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ACCAAAAGAGTGCGCCACTTGTGGTGACACCTGGACTTCTCAGTGGAGAAGTGGACCTAATGGAAATGTTGAGCTATGTAGTCGATGTGGCATAGCATATAGGAAAAAAATGGAGAAAAAAATACGATCGCAACAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC",
+        "mouse",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TATGCGATGTTTGTCTTGCTGGTCTGATTACCTCACCCAATATAGTCTTTTTTAGGTCCATTCATTTACCTGAAAATTACATGATTTAATTATTTCTACAACAGAATAGCATC\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GCTTACTGCAACTTCCGTCTCCCGGGTTCAAGTGATTCTCCTGCCTCAGCCTCGCGAGTAGCTGGGATTACAGGCACCCACCACCACGCCCAGCTAATTTTTTGTATTTTTAGTAGAGACAGGCTTT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC",
+        "chicken",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CATGCAATGAGATTGCTGCACACCAGGAACCCTAACTTCCAGTCTTTTGTTTTCTGCTTGTAGCATGCTTGTTTTCTACACACTGTCATGGGTGTATGCAGATAAAAATAATCAATCCACGAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTGTTCATCCTCTAGAGAGAGAAGGGATACGCATTCATGGAGATCCTACTGTTGCAAACTCTGCATTAGGAGTTTTACATGAATTGTCTCATTTAGTCCTCACAACAGTCCTGTGAGGCAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GCTAGTAAATATAAATATTTGTTATCATGTATTATGTGTTATTTTTGCGGGGAGTATGATTATGATGCTTTCATTACAAATGTAACGTTATATGTGCCTATGTGGTGCCATGTGCCAGGATGT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA",
+        "mouse",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ATGTGCTTGTAGGAAGCAGCACAGGCCAGAAGAGGTTGTCAGATTCCCTAGAACTGGAGTTAGAAGCAGTTGTGAGCTCCTCTATGTAGGTGCTGAGAACTAAACCTGGATCCCATGAGCCATCTCCCTAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA",
+        "rat",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GCATGTTAGTTTGTGTGCACACATGCATATGCATGTGTATGGAGACCAGGGTTCGTATTAGCTGTCTTCCTCGATTGCAGCACTTCATGTGATTTTGAGAGCAGCTGTGACCCTGAACCTTGAGCTCGTTTCAGCTAGGCTGGCTGGCA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ACTGTTGTTCTGTTCGAGAAAACTATCACAAAAAGATGACTGGCTCATAACTTTGATACGAATAGCAGTTCAAATATGTCACTGTTTTTCTTGTTTGAGTATTCATATGGTGAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ACTCAATCTATCACATATACTGAGAAAAACTGTATCTATTTTGATTTCCCTAAATGGAAAGTTAGAAGCTTACTCTGCAGGTGGCAGGTAAGCACCAATCCTT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT",
+        "yeast",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AAAACGGTACGAAAAGGTAATATTGCCTAATCTGAAATAATGTAGTCACTCTAGAACTATTAATAAAGAAGCTTGTACTTCCTCTTATCCCTGGAATGGACGGTTATGCTGCTT\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TGAAACCTTTTGTTCCATATGTATATTTACAATAAAAAAAATAATGCAAGTAAGCCATTTATCACAAAAACAGGTTTATTTAATATCTCTTTCTTTTTTAAAATAATTAGATTTATTC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA",
+        "chicken",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AATTTTACCTTTCATGTCCACATTGCCCTTGCTCAGCTCCCTGTCATGCCACAACTAATAGCTGCTTTGGAATAGAAACAGCTAATGACACCTCTAAATAATGA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT",
+        "rat",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TGTGAGGGCTCTGGACCACCACAAGACTGGAAGTTTCCACGCACCCACTGCAAAGGGAGGGTGCAGCTCACCAAAACCAAGTTTGCTTTGATTCACGACGTCGTGTAAAGT\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CAGGTCCCCATGGCTTTGTTTCTTGGAGTCTCTCTCTTCACAGTCCTTTTCTCCAAGGCCAGTGAGGGAAGGAGAGATTTCAGGGGAAAAGCTACTGACTGGATTGGGAG\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT",
+        "chicken",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TGGGCAGAGTGTTCTCTCAAATATTTATGTATTTGAAGTAGAGGTGGATTGAAAAAAAATGTCAAAGTGATTTAGCATCACAAAGTGTTTCAGTGAAACAAAAACAGTTCACTTACATGTCT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA",
+        "yeast",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTTTTTTTTTTCACCCTTAACAGCAAGGTTGAACTCTATAAGGAAAAGGGATAGATCGTGCGGCACACCAGAAAAAGGGGATCAGTAAAGTGATGCAACATAAATACA\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AATTGTTTATAGCCAAACTGTTATGCCCAGGTGTTGTCAAGGTGCTCAAATTTCAAATTTTATCAAATTTTAGGTCATTTTTTGAGCCACCATGTTTTTTGAGAAGTTTCCAAGAAGTTTCATCAGGAAATTCGGCGT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GCTGGTAAATCCACCGGCCACCCCAAAAGCGCCGTTGCGCCCTTTACCAATTATAGAGATCCCCTTCAAGAGAATTGGTATGGATCTCATCGGGCCATTAGAGTGATCCGCACGCGGGCACCGGTTTGCATTAGT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AATACTAATGTTATTATTAATAGTAGTTAGATATATAAAAAAAAAATATATATATATATATACTATACTATATATATTATATATATATACACACACAGTATATA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC",
+        "yeast",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TAGCAGCGTTCGGTTTATTAACCTGTATAGGGTTACTTGCATTCTTCGTTAATTGTGCAAGATTCTCATCTATTTGAGATTGCAATAATTTTTCTCGTTCTTCCGTTAATTTATTTAAATCAACATTCCCAGGTATTAGCGAATC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GTTTGGACTGTGGGGGAAACCGTAGCACCCGGAGGAAACCCACACCAACACGGGGAGAACATGCAAACTCCACACAGAAACACCAACTGACCCAGCCCGGACTCAAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC",
+        "mouse",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:AAGGTATAGGGAGAGAGAACTGGTAGTAACACAGTTCAAATTATGAGACCTGCATCTGAATAGCTGGCTAGCGGGGGCGGGGGGGTGCACTTGAAGCATCTCTCTCCCTC\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC",
+        "human",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TGTTACTCAGGAACTCCTATGATGTGCTGGAGATTCAGAATGAACAAACTGAAAGCCATACTCCAAGCCTCTTCCTTTTATACCTGTATGTTTAGTTATTTCCCAGTGGTTAAGAGCAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC",
+        "chicken",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TCCATTGTAGGCAAAAGGATTTGCTTAGGATATAAAAAGTGGAAATGAATCATGTGAACAGCTTTTCCATATTGTCCATTATCCATTTTTGGATAACTTCAGTGGATACAAGCTGAAGGACAAGCTGCTTGTGTAC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TCATTATGTGCATGTCCTACTTTCTGTCTGTGTCTGTGCACAGGCAAATGTGTCCATTTTATGCATGTAAAATATGTATGGTTGGTACTTTTGAGAGCTATCCATTTAAATTCTGGCACA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTTGGATGCTGCCATCCAAAGACATAATCGCTGCCTCTAATGAGCGTTACTTTGTGCACGCTAATGGGTCTCTTGATATACGAAATGTTAAATTATCTGATGCTGGGGAGTATGTCTGCATGGCTCGTAATGC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG",
+        "mouse",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:ATTACAGAGATCCTGAAACCTTCCCTCCACCTCTCCCTACCTTCCAACACAGGACACAGAAGGACAATTGGAACCCCTTGCAACTTGGTTTCATTCTGAATTG\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG",
+        "yeast",
+        "Answer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GACAGGGATGTCATCAACGCATAATGATGTACAGTGTTGGATTGCATACCTGTATCGTACGTATCAGGATGCTGAATGTCACCTCTTGCAACAAATCTAGCTTTATGAG\n",
+                "Answer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TTTCCTTGTCACAGTATCACATCAATCTCTCACTTTAGTTATACATAATTAATGTCACTGTTGAGATAGTTTTAAAAAAATGTCCTTCTCATCTTGAAATGAACAACTTATTAGGAAGGAATTTCTCAAAACACTTGCCT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA",
+        "rat",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CATGTACAATAAAAGAACTGGAGGTATCACCTTCCCTGATTTCAAGCTGTAGTACAAAGCATTGTAACAAAAACATGCATGATATTGGCATAACAAGGACAGGTTGATCAATGGAATTGAGTTGAAGACCCAGAAATACACCCA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:CCACAGTTTTTTTCCTGTATTAGTTTTTTTTGACTCTCATAGTGCTGGTAGTCAATAACTTGAATATTATAAATCCCCCCCAATTCCCCCCCAAAAAAAGCTAAAAATAGTTTCAGCTAAAAATCTAAA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TCCCAAATGTATTGCACAATGTGCACACGGACACACACACACACTTTACACCTCTGCGTCTCTTGTTCTCTTTCACCACCGAAATGCTTGCAAAATCTGGTTGAACGGTTTCCACGTCA\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT",
+        "worm",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:TAAAAATTATAGGAAAAAAGACAAAAATTGCACAATCCCAAAAAAGGCAGAAAAACACAAAATCTTCTACTTTAAAAAAAAACCTATAAAATTTTCACATTTTCCCCGATTTTTAATCAAAAAACCAAAACTTTTCGCT\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ],
+    [
+        "Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC",
+        "zebrafish",
+        "\nAnswer: Homo sapiens",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which organism does the DNA sequence come from:GCTCGATTGAAACGAACTGTGGAGCGGTTCGATTGCAGTGAGAAAGCGATCCGATCCGAGCGCGGTTATATCACAGTGTTTTATGGATATGTAATAGGCTTACGGCTATATGAAGAGAGTTATGAGTATGGC\n",
+                "\nAnswer: Homo sapiens"
+            ]
+        ]
+    ]
+]

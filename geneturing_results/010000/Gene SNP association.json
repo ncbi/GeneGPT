@@ -1,0 +1,552 @@
+[
+    [
+        "Which gene is SNP rs1217074595 associated with?",
+        "LINC01270",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1217074595 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1241371358 associated with?",
+        "LRRC23",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1241371358 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1481036795 associated with?",
+        "SEPTIN11",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1481036795 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1318850293 associated with?",
+        "PLEKHG7",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1318850293 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs996319727 associated with?",
+        "USP39",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs996319727 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs577757681 associated with?",
+        "OXR1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs577757681 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1294482311 associated with?",
+        "DMXL1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1294482311}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1294482311 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1294482311}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs979970652 associated with?",
+        "KHDRBS2",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs979970652 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1029002401 associated with?",
+        "MAJIN",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1029002401 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1015227 associated with?",
+        "SCHLAP1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1015227 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1278530438 associated with?",
+        "LDLRAD4",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1278530438 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs745325402 associated with?",
+        "CALCR",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs745325402 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs4704888 associated with?",
+        "SGCD",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs4704888}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs4704888 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs4704888}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1201372088 associated with?",
+        "ZBTB25",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1201372088 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1324451169 associated with?",
+        "MED26",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_number}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1324451169 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_number}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs983419152 associated with?",
+        "LINC02055",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs983419152 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs745940901 associated with?",
+        "JMJD1C",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs745940901 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1303680136 associated with?",
+        "XKR9",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1303680136 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1053827498 associated with?",
+        "NSMCE1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1053827498}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1053827498 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1053827498}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1350154096 associated with?",
+        "LOC107986092",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1350154096 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1037441458 associated with?",
+        "LOC105372191",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1037441458 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs900408143 associated with?",
+        "RBFOX1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs900408143}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs900408143 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs900408143}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs900532834 associated with?",
+        "PAK1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs900532834}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs900532834 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs900532834}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1281200566 associated with?",
+        "CCT8L2",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1281200566}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1281200566 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs1281200566}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1431266687 associated with?",
+        "CACNB2",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1431266687 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs900745020 associated with?",
+        "CREB5",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs900745020 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1188606225 associated with?",
+        "GAREM1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1188606225 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs902730377 associated with?",
+        "LOC105372323",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs902730377 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1044115387 associated with?",
+        "GLIS3",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1044115387 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs979980368 associated with?",
+        "FAM53B",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs979980368 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1161130206 associated with?",
+        "EMX2OS",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1161130206 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs910422326 associated with?",
+        "ANKFN1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs910422326 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1035892430 associated with?",
+        "TSPAN15",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1035892430 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsid}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1255093658 associated with?",
+        "TENM3",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1255093658 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1257276516 associated with?",
+        "LOC100506403",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1257276516 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs563369098 associated with?",
+        "LINC01673",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs563369098 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1032834815 associated with?",
+        "FNDC3B",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1032834815 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs552952471 associated with?",
+        "RARB",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs552952471 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1452964195 associated with?",
+        "LINC03021",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1452964195 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs949202492 associated with?",
+        "NECAB2",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs949202492 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1218214598 associated with?",
+        "MIR4527HG",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1218214598 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1022906840 associated with?",
+        "CCDC178",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1022906840 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1199372758 associated with?",
+        "RUBCN",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1199372758 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1396355441 associated with?",
+        "PTPRB",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1396355441 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1432624213 associated with?",
+        "SLC22A14",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1432624213 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs937944577 associated with?",
+        "IFFO1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs937944577 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1450106117 associated with?",
+        "MED13",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1450106117 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs34083046 associated with?",
+        "MICU1",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs34083046 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rsID}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs149916046 associated with?",
+        "LINC02841",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs149916046 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ],
+    [
+        "Which gene is SNP rs1385096481 associated with?",
+        "LRFN5",
+        "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Which gene is SNP rs1385096481 associated with?\n",
+                "\nHint: You can use the following API to get the genomic location of a SNP:\n\"[https://www.ncbi.nlm.nih.gov/projects/SNP/snp_ref.cgi?rs={rs_id}]\"."
+            ]
+        ]
+    ]
+]

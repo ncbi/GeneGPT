@@ -1,0 +1,552 @@
+[
+    [
+        "Which chromosome does SNP rs1430464868 locate on human genome?",
+        "chr13",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1430464868 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs545148486 locate on human genome?",
+        "chr16",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs545148486 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs895485955 locate on human genome?",
+        "chr19",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs895485955 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1376217783 locate on human genome?",
+        "chr11",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1376217783 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1420724913 locate on human genome?",
+        "chr16",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1420724913 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs992486373 locate on human genome?",
+        "chr15",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs992486373 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs975300764 locate on human genome?",
+        "chr4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs975300764 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs993131098 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs993131098 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs899883800 locate on human genome?",
+        "chr1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs899883800 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs547832386 locate on human genome?",
+        "chr15",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs547832386 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1212113267 locate on human genome?",
+        "chr22",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1212113267 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1435895561 locate on human genome?",
+        "chr19",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1435895561 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs427884 locate on human genome?",
+        "chr11",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs427884 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1188706680 locate on human genome?",
+        "chr4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1188706680 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1316126938 locate on human genome?",
+        "chr18",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1316126938 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1398189587 locate on human genome?",
+        "chr4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1398189587 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1372020525 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1372020525 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs188137472 locate on human genome?",
+        "chr17",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs188137472 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1246801490 locate on human genome?",
+        "chr18",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1246801490 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs983633514 locate on human genome?",
+        "chr8",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs983633514 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1274126968 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1274126968 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1392348488 locate on human genome?",
+        "chr22",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1392348488 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs965556407 locate on human genome?",
+        "chr4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs965556407 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs999510594 locate on human genome?",
+        "chr16",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs999510594 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1412275115 locate on human genome?",
+        "chr17",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1412275115 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs951388492 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs951388492 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs967011458 locate on human genome?",
+        "chr4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs967011458 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs555675816 locate on human genome?",
+        "chr8",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs555675816 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1333853138 locate on human genome?",
+        "chr22",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1333853138 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs910383316 locate on human genome?",
+        "chr1",
+        "\nHint:\n1. You need to use esearch to get the database id of rs910383316.\n2. You need to use efetch to get the full record of rs910383316.\n3. You need to parse the full record to get the chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs910383316 locate on human genome?\n",
+                "\nHint:\n1. You need to use esearch to get the database id of rs910383316.\n2. You need to use efetch to get the full record of rs910383316.\n3. You need to parse the full record to get the chromosome location."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs563617526 locate on human genome?",
+        "chr11",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs563617526 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1357251061 locate on human genome?",
+        "chr21",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1357251061 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1401416674 locate on human genome?",
+        "chr10",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1401416674 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs76491275 locate on human genome?",
+        "chr21",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs76491275 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs141272872 locate on human genome?",
+        "chr3",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs141272872 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1281763211 locate on human genome?",
+        "chr4",
+        "\nHint:\n1. You need to use esearch to get the database id of rs1281763211.\n2. You need to use efetch to get the full record of rs1281763211.\n3. You need to parse the full record to get the chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1281763211 locate on human genome?\n",
+                "\nHint:\n1. You need to use esearch to get the database id of rs1281763211.\n2. You need to use efetch to get the full record of rs1281763211.\n3. You need to parse the full record to get the chromosome location."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1278117191 locate on human genome?",
+        "chr20",
+        "\nHint:\n1. You need to use esearch to get the database id of rs1278117191.\n2. You need to use efetch to get the full record of rs1278117191.\n3. You need to parse the full record to get the chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1278117191 locate on human genome?\n",
+                "\nHint:\n1. You need to use esearch to get the database id of rs1278117191.\n2. You need to use efetch to get the full record of rs1278117191.\n3. You need to parse the full record to get the chromosome location."
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1239675264 locate on human genome?",
+        "chr21",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1239675264 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs866998836 locate on human genome?",
+        "chr17",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs866998836 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1228002921 locate on human genome?",
+        "chr2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1228002921 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs976400036 locate on human genome?",
+        "chr19",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs976400036 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs397784008 locate on human genome?",
+        "chr15",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs397784008 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1170945868 locate on human genome?",
+        "chr22",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1170945868 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs990783431 locate on human genome?",
+        "chr3",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs990783431 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1041819671 locate on human genome?",
+        "chr5",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1041819671 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs139642661 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs139642661 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1263053296 locate on human genome?",
+        "chr14",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1263053296 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1391145256 locate on human genome?",
+        "chr12",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1391145256 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs1002944049 locate on human genome?",
+        "chr9",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs1002944049 locate on human genome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "Which chromosome does SNP rs962314907 locate on human genome?",
+        "chr5",
+        "\nHint:\n1. You need to use esearch to get the database id of rs962314907.\n2. You need to use efetch to get the full record of rs962314907.\n3. You need to parse the full record to get the chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: Which chromosome does SNP rs962314907 locate on human genome?\n",
+                "\nHint:\n1. You need to use esearch to get the database id of rs962314907.\n2. You need to use efetch to get the full record of rs962314907.\n3. You need to parse the full record to get the chromosome location."
+            ]
+        ]
+    ]
+]

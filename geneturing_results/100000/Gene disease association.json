@@ -1,0 +1,552 @@
+[
+    [
+        "What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?",
+        "PFKL",
+        "\n1. Search for the term \"Hemolytic anemia due to phosphofructokinase deficiency\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?\n",
+                "\n1. Search for the term \"Hemolytic anemia due to phosphofructokinase deficiency\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Distal renal tubular acidosis?",
+        "SLC4A1, ATP6V0A4",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Distal renal tubular acidosis?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Pseudohypoparathyroidism Ic?",
+        "GNAS",
+        "\nAnswer: GNAS, PTH, PTHLH, PTH1R, GNAI3, GNAI2, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, G",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Pseudohypoparathyroidism Ic?\n",
+                "\nAnswer: GNAS, PTH, PTHLH, PTH1R, GNAI3, GNAI2, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, GNAI1, GNAI2, GNAI3, GNAQ, GNA11, GNAO1, GNA14, GNA15, GNA12, GNA13, GNAZ, G"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Glycine N-methyltransferase deficiency?",
+        "GNMT",
+        "\n1. Search for the term \"Glycine N-methyltransferase deficiency\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Glycine N-methyltransferase deficiency?\n",
+                "\n1. Search for the term \"Glycine N-methyltransferase deficiency\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Meesmann corneal dystrophy?",
+        "KRT12, KRT3",
+        "\n1. Search for Meesmann corneal dystrophy in OMIM database.\n2. Get the database id(s) of Meesmann corneal dystrophy.\n3. Get the full records of Meesmann corneal dystrophy.\n4. Get the gene name(s) of Meesmann corneal dystrophy.\n5. Search for the gene name(s) in Gene database.\n6. Get the database id(s) of the gene name(s).\n7. Get the full records of the gene name(s).\n8. Get the chromosome location(s) of the gene name(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Meesmann corneal dystrophy?\n",
+                "\n1. Search for Meesmann corneal dystrophy in OMIM database.\n2. Get the database id(s) of Meesmann corneal dystrophy.\n3. Get the full records of Meesmann corneal dystrophy.\n4. Get the gene name(s) of Meesmann corneal dystrophy.\n5. Search for the gene name(s) in Gene database.\n6. Get the database id(s) of the gene name(s).\n7. Get the full records of the gene name(s).\n8. Get the chromosome location(s) of the gene name(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Chronic atrial and intestinal dysrhythmia?",
+        "SGO1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Chronic atrial and intestinal dysrhythmia?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Sensorineural deafness with mild renal dysfunction?",
+        "BSND",
+        "\n1. Search for \"Sensorineural deafness with mild renal dysfunction\" in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Sensorineural deafness with mild renal dysfunction?\n",
+                "\n1. Search for \"Sensorineural deafness with mild renal dysfunction\" in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Bile acid malabsorption?",
+        "SLC10A2, SLC51B",
+        "\n1. Search for the term \"Bile acid malabsorption\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Bile acid malabsorption?\n",
+                "\n1. Search for the term \"Bile acid malabsorption\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?",
+        "LAMTOR2",
+        "\n1. Search for the term \"Immunodeficiency due to defect in MAPBP-interacting protein\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Find the gene name(s) in the full records.\n5. Search for the gene name(s) in the gene database.\n6. Get the database id(s) of the gene name(s).\n7. Get the summaries of the database id(s).\n8. Find the chromosome location of the gene name(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?\n",
+                "\n1. Search for the term \"Immunodeficiency due to defect in MAPBP-interacting protein\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Find the gene name(s) in the full records.\n5. Search for the gene name(s) in the gene database.\n6. Get the database id(s) of the gene name(s).\n7. Get the summaries of the database id(s).\n8. Find the chromosome location of the gene name(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Currarino syndrome?",
+        "MNX1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Currarino syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Intervertebral disc disease?",
+        "COL9A3",
+        "\n1. Search for \"Intervertebral disc disease\" in the OMIM database.\n2. Get the OMIM id(s) of the search term.\n3. Get the gene id(s) of the OMIM id(s).\n4. Get the gene name(s) of the gene id(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Intervertebral disc disease?\n",
+                "\n1. Search for \"Intervertebral disc disease\" in the OMIM database.\n2. Get the OMIM id(s) of the search term.\n3. Get the gene id(s) of the OMIM id(s).\n4. Get the gene name(s) of the gene id(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Otofaciocervical syndrome?",
+        "EYA1, PAX1",
+        "\n1. Search for the term \"Otofaciocervical syndrome\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Otofaciocervical syndrome?\n",
+                "\n1. Search for the term \"Otofaciocervical syndrome\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Get the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Brody myopathy?",
+        "ATP2A1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Brody myopathy?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Neurodevelopmental disorder with gait disturbance?",
+        "TCEAL1",
+        "\n1. Search for the term \"Neurodevelopmental disorder with gait disturbance\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Neurodevelopmental disorder with gait disturbance?\n",
+                "\n1. Search for the term \"Neurodevelopmental disorder with gait disturbance\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?",
+        "POLG",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Nephropathy due to CFHR5 deficiency?",
+        "CFHR5",
+        "\n1. Search for Nephropathy due to CFHR5 deficiency in OMIM.\n2. Get the OMIM id of Nephropathy due to CFHR5 deficiency.\n3. Search for genes related to Nephropathy due to CFHR5 deficiency in OMIM.\n4. Get the gene id(s) of genes related to Nephropathy due to CFHR5 deficiency.\n5. Search for genes related to Nephropathy due to CFHR5 deficiency in Gene.\n6. Get the gene id(s) of genes related to Nephropathy due to CFHR5 deficiency.\n7. Get the full records of genes related to Nephropathy due to CFHR5 deficiency.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Nephropathy due to CFHR5 deficiency?\n",
+                "\n1. Search for Nephropathy due to CFHR5 deficiency in OMIM.\n2. Get the OMIM id of Nephropathy due to CFHR5 deficiency.\n3. Search for genes related to Nephropathy due to CFHR5 deficiency in OMIM.\n4. Get the gene id(s) of genes related to Nephropathy due to CFHR5 deficiency.\n5. Search for genes related to Nephropathy due to CFHR5 deficiency in Gene.\n6. Get the gene id(s) of genes related to Nephropathy due to CFHR5 deficiency.\n7. Get the full records of genes related to Nephropathy due to CFHR5 deficiency."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Achromatopsia?",
+        "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Achromatopsia?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Hyperphenylalaninemia?",
+        "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "\n1. Search for Hyperphenylalaninemia in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Hyperphenylalaninemia?\n",
+                "\n1. Search for Hyperphenylalaninemia in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to EDICT syndrome?",
+        "MIR184",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to EDICT syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Gastrointestinal defects and immunodeficiency syndrome?",
+        "PI4KA, TTC7A",
+        "\n1. Search for \"Gastrointestinal defects and immunodeficiency syndrome\" in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Gastrointestinal defects and immunodeficiency syndrome?\n",
+                "\n1. Search for \"Gastrointestinal defects and immunodeficiency syndrome\" in OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in Gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Cleft palate with ankyloglossia?",
+        "TBX22",
+        "\n1. Search for genes related to Cleft palate with ankyloglossia.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Get the chromosome locations of the genes.\n5. Get the summaries of the genes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Cleft palate with ankyloglossia?\n",
+                "\n1. Search for genes related to Cleft palate with ankyloglossia.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Get the chromosome locations of the genes.\n5. Get the summaries of the genes."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?",
+        "DLL1",
+        "\n1. Search for the term \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?\n",
+                "\n1. Search for the term \"Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Spondylocarpotarsal synostosis syndrome?",
+        "FLNB",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Spondylocarpotarsal synostosis syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Haim-Munk syndrome?",
+        "CTSC",
+        "\nHint: You can use the following search terms:\n1. Haim-Munk syndrome\n2. Haim-Munk\n3. Haim Munk\n4. HaimMunk\n5. Haim Munk syndrome\n6. HaimMunk syndrome\n7. Haim-Munk disease\n8. Haim Munk disease\n9. HaimMunk disease\n10. Haim-Munk disorder\n11. Haim Munk disorder\n12. HaimMunk disorder",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Haim-Munk syndrome?\n",
+                "\nHint: You can use the following search terms:\n1. Haim-Munk syndrome\n2. Haim-Munk\n3. Haim Munk\n4. HaimMunk\n5. Haim Munk syndrome\n6. HaimMunk syndrome\n7. Haim-Munk disease\n8. Haim Munk disease\n9. HaimMunk disease\n10. Haim-Munk disorder\n11. Haim Munk disorder\n12. HaimMunk disorder"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Sialidosis?",
+        "NEU1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Sialidosis?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Siddiqi syndrome?",
+        "FITM2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Siddiqi syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Corneal fleck dystrophy?",
+        "PIKFYVE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Corneal fleck dystrophy?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Liver failure?",
+        "TRMU",
+        "\n1. Search for genes related to Liver failure.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Print the name, chromosome location, and other information of the genes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Liver failure?\n",
+                "\n1. Search for genes related to Liver failure.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Print the name, chromosome location, and other information of the genes."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Proteasome-associated autoinflammatory syndrome?",
+        "PSMB9, PSMG2, POMP, PSMB10",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Proteasome-associated autoinflammatory syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Orofaciodigital syndrome XIV?",
+        "C2CD3",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Orofaciodigital syndrome XIV?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Trichoepithelioma?",
+        "CYLD",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Trichoepithelioma?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Medullary thyroid carcinoma?",
+        "RET",
+        "\n1. Search for the term \"Medullary thyroid carcinoma\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene name(s) from the full records.\n5. Print the gene name(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Medullary thyroid carcinoma?\n",
+                "\n1. Search for the term \"Medullary thyroid carcinoma\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene name(s) from the full records.\n5. Print the gene name(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Type diabetes mellitus?",
+        "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "\n1. Search for genes related to Type diabetes mellitus.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Print the name, chromosome location, and other information of the genes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Type diabetes mellitus?\n",
+                "\n1. Search for genes related to Type diabetes mellitus.\n2. Get the database id(s) of the genes.\n3. Get the full records of the genes.\n4. Print the name, chromosome location, and other information of the genes."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Buschke-Ollendorff syndrome?",
+        "LEMD3",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Buschke-Ollendorff syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Vascular malformation?",
+        "ELMO2",
+        "\n1. Search for \"Vascular malformation\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Print the gene names.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Vascular malformation?\n",
+                "\n1. Search for \"Vascular malformation\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Print the gene names."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Acrocallosal syndrome?",
+        "KIF7",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Acrocallosal syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Congenital disorder of deglycosylation?",
+        "NGLY1, MAN2C1",
+        "Answer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Congenital disorder of deglycosylation?\n",
+                "Answer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Spinal muscular atrophy with congenital bone fractures?",
+        "TRIP4, ASCC1",
+        "\n1. Search for the disease name in OMIM database.\n2. Get the database id(s) of the disease name.\n3. Get the gene id(s) of the disease name.\n4. Get the gene name(s) of the gene id(s).\n5. Get the gene location(s) of the gene id(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Spinal muscular atrophy with congenital bone fractures?\n",
+                "\n1. Search for the disease name in OMIM database.\n2. Get the database id(s) of the disease name.\n3. Get the gene id(s) of the disease name.\n4. Get the gene name(s) of the gene id(s).\n5. Get the gene location(s) of the gene id(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to B-cell immunodeficiency?",
+        "TOP2B",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to B-cell immunodeficiency?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?",
+        "ARPC1B",
+        "\n1. Search for genes related to \"Immunodeficiency with inflammatory disease and congenital thrombocytopenia\"\n2. Get the database id(s) of the genes\n3. Get the full records of the genes\n4. Print the name, chromosome location, and other information of the genes",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?\n",
+                "\n1. Search for genes related to \"Immunodeficiency with inflammatory disease and congenital thrombocytopenia\"\n2. Get the database id(s) of the genes\n3. Get the full records of the genes\n4. Print the name, chromosome location, and other information of the genes"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Split-foot malformation with mesoaxial polydactyly?",
+        "MAP3K20",
+        "\n1. Search for \"Split-foot malformation with mesoaxial polydactyly\" in OMIM.\n2. Get the OMIM id of the disease.\n3. Search for genes related to the disease.\n4. Get the gene id(s) of the genes.\n5. Get the gene information with the gene id(s).\n6. Print the gene name, chromosome location, and other information.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Split-foot malformation with mesoaxial polydactyly?\n",
+                "\n1. Search for \"Split-foot malformation with mesoaxial polydactyly\" in OMIM.\n2. Get the OMIM id of the disease.\n3. Search for genes related to the disease.\n4. Get the gene id(s) of the genes.\n5. Get the gene information with the gene id(s).\n6. Print the gene name, chromosome location, and other information."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Pigmented nodular adrenocortical disease?",
+        "PRKAR1A, PDE11A, PDE8B",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Pigmented nodular adrenocortical disease?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Superoxide dismutase?",
+        "SOD3",
+        "Answer:\n1. Call esearch to get the database id(s) of the search term \"Superoxide dismutase\".\n2. Call efectch/esummary to get the information with the database id(s).",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Superoxide dismutase?\n",
+                "Answer:\n1. Call esearch to get the database id(s) of the search term \"Superoxide dismutase\".\n2. Call efectch/esummary to get the information with the database id(s)."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?",
+        "SCP2",
+        "\n1. Search for the term \"Leukoencephalopathy with dystonia and motor neuropathy\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?\n",
+                "\n1. Search for the term \"Leukoencephalopathy with dystonia and motor neuropathy\" in the OMIM database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Get the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the full records of the database id(s).\n8. Get the chromosome locations from the full records.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?",
+        "IL6",
+        "\n1. Search for the term \"Intracranial hemorrhage in brain cerebrovascular malformations\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?\n",
+                "\n1. Search for the term \"Intracranial hemorrhage in brain cerebrovascular malformations\" in the gene database.\n2. Get the database id(s) of the search term.\n3. Get the full records of the database id(s).\n4. Extract the gene names from the full records.\n5. Search for the gene names in the gene database.\n6. Get the database id(s) of the gene names.\n7. Get the summaries of the database id(s).\n8. Extract the chromosome locations from the summaries.\n9. Print the gene names and chromosome locations."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Multiple system atrophy?",
+        "COQ2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Multiple system atrophy?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Cone dystrophy?",
+        "PDE6C, GUCA1A",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Cone dystrophy?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Holt-Oram syndrome?",
+        "TBX5",
+        "\nHint: You can use the search term \"Holt-Oram syndrome\"[All Fields] to search OMIM database.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Holt-Oram syndrome?\n",
+                "\nHint: You can use the search term \"Holt-Oram syndrome\"[All Fields] to search OMIM database."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Lichtenstein-Knorr syndrome?",
+        "SLC9A1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Lichtenstein-Knorr syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Ablepharon-macrostomia syndrome?",
+        "TWIST2",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nYou can call Eutils by: \"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/{esearch|efetch|esummary}.fcgi?db={gene|snp|omim}&retmax={}&{term|id}={term|id}]\".\nesearch: input is a search term and output is database id(s).\nefectch/esummary: input is database id(s) and output is full records or summaries that contain name, chromosome location, and other information.\nNormally, you need to first call esearch to get the database id(s) of the search term, and then call efectch/esummary to get the information with the database id(s).\nDatabase: gene is for genes, snp is for SNPs, and omim is for genetic diseases.\n\nQuestion: What are genes related to Ablepharon-macrostomia syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ]
+]

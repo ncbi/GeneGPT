@@ -1,0 +1,640 @@
+[
+    [
+        "Convert ENSG00000215251 to official gene symbol.",
+        "FASTKD5",
+        "numError",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000215251 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000215251 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000215251 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000215251 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000215251 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000215251}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000205403 to official gene symbol.",
+        "CFI",
+        "numError",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000205403 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000205403 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000205403 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000205403 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000205403 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000205403}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000140199 to official gene symbol.",
+        "SLC12A6",
+        "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000140199}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000140199 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000140199}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000149476 to official gene symbol.",
+        "TKFC",
+        "\nHint: You can use the following API to convert ENSG00000149476 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000149476&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000149476 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000149476 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000149476&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000291317 to official gene symbol.",
+        "TMEM276",
+        "\nHint: You can use the following API to convert ENSG00000291317 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000291317&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000291317 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000291317 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000291317&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000174944 to official gene symbol.",
+        "P2RY14",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000174944}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000174944 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000174944}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000138604 to official gene symbol.",
+        "GLCE",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000138604}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000138604 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000138604}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000174233 to official gene symbol.",
+        "ADCY6",
+        "\nHint: You can use the following API to convert ENSG00000174233 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000174233&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000174233 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000174233 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000174233&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000165487 to official gene symbol.",
+        "MICU2",
+        "\nHint: You can use the following API to convert ENSG00000165487 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000165487&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000165487 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000165487 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000165487&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000124157 to official gene symbol.",
+        "SEMG2",
+        "\nHint: You can use the following API to convert ENSG00000124157 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000124157&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000124157 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000124157 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000124157&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000182885 to official gene symbol.",
+        "ADGRG3",
+        "\nHint: You can use the following API to convert ENSG00000182885 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000182885&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000182885 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000182885 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000182885&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000128322 to official gene symbol.",
+        "IGLL1",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000128322}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000128322 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000128322}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000103199 to official gene symbol.",
+        "ZNF500",
+        "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000103199}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000103199 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000103199}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000148824 to official gene symbol.",
+        "MTG1",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000148824}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000148824 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000148824}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000188343 to official gene symbol.",
+        "CIBAR1",
+        "\nHint: You can use the following API to convert ENSG00000188343 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000188343&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000188343 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000188343 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000188343&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000077984 to official gene symbol.",
+        "CST7",
+        "\nHint: You can use the following API to convert ENSG00000077984 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000077984&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000077984 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000077984 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000077984&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000117528 to official gene symbol.",
+        "ABCD3",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000117528}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000117528 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000117528}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000135338 to official gene symbol.",
+        "LCA5",
+        "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000135338}&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000135338 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000135338}&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000139370 to official gene symbol.",
+        "SLC15A4",
+        "\nHint: You can use the following API to convert ENSG00000139370 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000139370&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000139370 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000139370 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000139370&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000170209 to official gene symbol.",
+        "ANKK1",
+        "\nHint: You can use the following API to convert ENSG00000170209 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000170209&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000170209 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000170209 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000170209&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000198681 to official gene symbol.",
+        "MAGEA1",
+        "numError",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000198681 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000198681 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000198681 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000198681 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000198681 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000198681}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000078549 to official gene symbol.",
+        "ADCYAP1R1",
+        "\nQuestion: Convert ENSG00000078549 to official gene symbol.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000078549 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000078549}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000078549}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000078549 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000078549}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000078549}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000078549} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000078549}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000078549 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000078549}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000078549}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000078549} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000078549}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000078549} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nQuestion: Convert ENSG00000078549 to official gene symbol."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000091592 to official gene symbol.",
+        "NLRP1",
+        "\nQuestion: Convert ENSG00000091592 to official gene symbol.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000091592 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000091592}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000091592}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000091592 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000091592}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000091592}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000091592} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000091592}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000091592 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000091592}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000091592}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000091592} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000091592}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000091592} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nQuestion: Convert ENSG00000091592 to official gene symbol."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000148680 to official gene symbol.",
+        "HTR7",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000148680}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000148680 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000148680}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000183943 to official gene symbol.",
+        "PRKX",
+        "\nHint: You can use the following API to convert ENSG00000183943 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000183943&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000183943 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000183943 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000183943&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000160791 to official gene symbol.",
+        "CCR5",
+        "\nHint: You can use the following API to convert ENSG00000160791 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000160791&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000160791 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000160791 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000160791&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000162849 to official gene symbol.",
+        "KIF26B",
+        "\nHint: You can use the following API to convert ENSG00000162849 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000162849&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000162849 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000162849 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000162849&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000147202 to official gene symbol.",
+        "DIAPH2",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000147202}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000147202 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000147202}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000117586 to official gene symbol.",
+        "TNFSF4",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000117586}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000117586 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000117586}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000168591 to official gene symbol.",
+        "TMUB2",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000168591}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000168591 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000168591}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000129474 to official gene symbol.",
+        "AJUBA",
+        "\nHint: You can use the following API to convert ENSG00000129474 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000129474]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000129474 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000129474 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000129474]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000172009 to official gene symbol.",
+        "THOP1",
+        "\nHint: You can use the following API to convert ENSG00000172009 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000172009&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000172009 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000172009 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000172009&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000189157 to official gene symbol.",
+        "FAM47E",
+        "\nHint: You can use the following API to convert ENSG00000189157 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000189157&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000189157 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000189157 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000189157&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000196586 to official gene symbol.",
+        "MYO6",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000196586}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000196586 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000196586}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000203783 to official gene symbol.",
+        "PRR9",
+        "\nHint: You can use the following API to convert ENSG00000203783 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000203783&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000203783 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000203783 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000203783&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000126500 to official gene symbol.",
+        "FLRT1",
+        "\nHint: You can use the following API to convert ENSG00000126500 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000126500]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000126500 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000126500 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000126500]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000010404 to official gene symbol.",
+        "IDS",
+        "\nHint: You can use the following API to convert ENSG00000010404 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000010404]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000010404 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000010404 to its official gene symbol:\n\"[https://www.ncbi.nlm.nih.gov/gene/?term=ENSG00000010404]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000182022 to official gene symbol.",
+        "CHST15",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000182022}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000182022 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000182022}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000177051 to official gene symbol.",
+        "FBXO46",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000177051}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000177051 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000177051}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000172296 to official gene symbol.",
+        "SPTLC3",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000172296}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000172296 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000172296}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000120738 to official gene symbol.",
+        "EGR1",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000120738}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000120738 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000120738}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000169548 to official gene symbol.",
+        "ZNF280A",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000169548}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000169548 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000169548}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000153060 to official gene symbol.",
+        "TEKT5",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000153060}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000153060 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000153060}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000176222 to official gene symbol.",
+        "ZNF404",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000176222}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000176222 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000176222}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000168970 to official gene symbol.",
+        "JMJD7-PLA2G4B",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000168970}&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000168970 to official gene symbol.\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000168970}&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000185883 to official gene symbol.",
+        "ATP6V0C",
+        "\nHint: You can use the following API to convert ENSG00000185883 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000185883&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000185883 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000185883 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000185883&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000240694 to official gene symbol.",
+        "PNMA2",
+        "\n\"\"\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000240694 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000240694}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000240694}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000240694 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000240694}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000240694}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000240694} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000240694}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000240694}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000240694 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000240694}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000240694}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000240694} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000240694}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={ENSG00000240694}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {ENSG00000240694} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\n\"\"\""
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000167664 to official gene symbol.",
+        "TMIGD2",
+        "numError",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000167664 to official gene symbol.\n",
+                "\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000167664 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000167664 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000167664 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ],
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000167664 to official gene symbol.\n\nHint: You can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n3. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={gene_symbol}]\n4. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]->[b'<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\\n<!DOCTYPE eSummaryResult PUBLIC \"-//NLM//DTD esummary gene 20150202//EN\" \"https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20150202/esummary_gene.dtd\">\\n<eSummaryResult>\\n\\t<ERROR>Invalid uid {gene_id} at position= 0</ERROR>\\n<DocumentSummarySet status=\"OK\">\\n</DocumentSummarySet>\\n</eSummaryResult>\\n']\n",
+                "\nYou can use the following APIs to get the information you need:\n1. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term={ENSG00000167664}]\n2. [https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id={gene_id}]"
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000243660 to official gene symbol.",
+        "ZNF487",
+        "\nHint: You can use the following API to convert ENSG00000243660 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000243660&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000243660 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000243660 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000243660&retmode=json]\"."
+            ]
+        ]
+    ],
+    [
+        "Convert ENSG00000132205 to official gene symbol.",
+        "EMILIN2",
+        "\nHint: You can use the following API to convert ENSG00000132205 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000132205&retmode=json]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: Convert ENSG00000132205 to official gene symbol.\n",
+                "\nHint: You can use the following API to convert ENSG00000132205 to its official gene symbol:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=gene&id=ENSG00000132205&retmode=json]\"."
+            ]
+        ]
+    ]
+]

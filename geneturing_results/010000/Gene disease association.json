@@ -1,0 +1,552 @@
+[
+    [
+        "What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?",
+        "PFKL",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Hemolytic+anemia+due+to+phosphofructokinase+deficiency]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Hemolytic anemia due to phosphofructokinase deficiency?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Hemolytic+anemia+due+to+phosphofructokinase+deficiency]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Distal renal tubular acidosis?",
+        "SLC4A1, ATP6V0A4",
+        "\n1. Get the DNA sequence of the gene \"SLC4A1\" from NCBI.\n2. Use BLAST to map the DNA sequence to its chromosome location among different species.\n3. Get the chromosome location of the gene \"SLC4A1\" in human.\n4. Get the genes that are located in the same chromosome as \"SLC4A1\" in human.\n5. Get the genes that are located in the same chromosome as \"SLC4A1\" in human and are related to Distal renal tubular acidosis.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Distal renal tubular acidosis?\n",
+                "\n1. Get the DNA sequence of the gene \"SLC4A1\" from NCBI.\n2. Use BLAST to map the DNA sequence to its chromosome location among different species.\n3. Get the chromosome location of the gene \"SLC4A1\" in human.\n4. Get the genes that are located in the same chromosome as \"SLC4A1\" in human.\n5. Get the genes that are located in the same chromosome as \"SLC4A1\" in human and are related to Distal renal tubular acidosis."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Pseudohypoparathyroidism Ic?",
+        "GNAS",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Pseudohypoparathyroidism%20Ic]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Pseudohypoparathyroidism Ic?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Pseudohypoparathyroidism%20Ic]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Glycine N-methyltransferase deficiency?",
+        "GNMT",
+        "\n1. Get the DNA sequence of Glycine N-methyltransferase deficiency.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the genes related to the chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Glycine N-methyltransferase deficiency?\n",
+                "\n1. Get the DNA sequence of Glycine N-methyltransferase deficiency.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the genes related to the chromosome location."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Meesmann corneal dystrophy?",
+        "KRT12, KRT3",
+        "\n1. Get the DNA sequence of the gene related to Meesmann corneal dystrophy.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Meesmann corneal dystrophy.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Meesmann corneal dystrophy?\n",
+                "\n1. Get the DNA sequence of the gene related to Meesmann corneal dystrophy.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Meesmann corneal dystrophy."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Chronic atrial and intestinal dysrhythmia?",
+        "SGO1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Chronic atrial and intestinal dysrhythmia?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Sensorineural deafness with mild renal dysfunction?",
+        "BSND",
+        "\nHint: You can use the following keywords to search for related genes:\n\"Sensorineural deafness with mild renal dysfunction\"[All Fields] AND \"Homo sapiens\"[Organism]",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Sensorineural deafness with mild renal dysfunction?\n",
+                "\nHint: You can use the following keywords to search for related genes:\n\"Sensorineural deafness with mild renal dysfunction\"[All Fields] AND \"Homo sapiens\"[Organism]"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Bile acid malabsorption?",
+        "SLC10A2, SLC51B",
+        "\n1. Get the DNA sequence of the gene \"SLC10A2\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to the human genome.\n3. Get the chromosome location of the gene.\n4. Get the genes that are close to the location of the gene \"SLC10A2\".\n5. Get the gene information of the genes found in step 4.\n6. Get the gene information of the gene \"SLC10A2\".\n7. Compare the gene information of the genes found in step 4 and the gene \"SLC10A2\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Bile acid malabsorption?\n",
+                "\n1. Get the DNA sequence of the gene \"SLC10A2\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to the human genome.\n3. Get the chromosome location of the gene.\n4. Get the genes that are close to the location of the gene \"SLC10A2\".\n5. Get the gene information of the genes found in step 4.\n6. Get the gene information of the gene \"SLC10A2\".\n7. Compare the gene information of the genes found in step 4 and the gene \"SLC10A2\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?",
+        "LAMTOR2",
+        "\nHint: You can use the following keywords to search for related genes: \"Immunodeficiency due to defect in MAPBP-interacting protein\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Immunodeficiency due to defect in MAPBP-interacting protein?\n",
+                "\nHint: You can use the following keywords to search for related genes: \"Immunodeficiency due to defect in MAPBP-interacting protein\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Currarino syndrome?",
+        "MNX1",
+        "\nCurrarino syndrome is a rare genetic disorder that affects the development of the spine, anus, and tailbone.\nIt is caused by a mutation in the HLXB9 gene.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Currarino syndrome?\n",
+                "\nCurrarino syndrome is a rare genetic disorder that affects the development of the spine, anus, and tailbone.\nIt is caused by a mutation in the HLXB9 gene."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Intervertebral disc disease?",
+        "COL9A3",
+        "\n1. Get the DNA sequence of the gene \"COL9A2\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to the human genome.\n3. Get the chromosome location of the gene.\n4. Get the DNA sequence of the chromosome.\n5. Use BLAST to map the DNA sequence to the mouse genome.\n6. Get the chromosome location of the gene.\n7. Get the DNA sequence of the chromosome.\n8. Use BLAST to map the DNA sequence to the rat genome.\n9. Get the chromosome location of the gene.\n10. Get the DNA sequence of the chromosome.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Intervertebral disc disease?\n",
+                "\n1. Get the DNA sequence of the gene \"COL9A2\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to the human genome.\n3. Get the chromosome location of the gene.\n4. Get the DNA sequence of the chromosome.\n5. Use BLAST to map the DNA sequence to the mouse genome.\n6. Get the chromosome location of the gene.\n7. Get the DNA sequence of the chromosome.\n8. Use BLAST to map the DNA sequence to the rat genome.\n9. Get the chromosome location of the gene.\n10. Get the DNA sequence of the chromosome."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Otofaciocervical syndrome?",
+        "EYA1, PAX1",
+        "\n1. Get the DNA sequence of the gene related to Otofaciocervical syndrome.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Otofaciocervical syndrome.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Otofaciocervical syndrome?\n",
+                "\n1. Get the DNA sequence of the gene related to Otofaciocervical syndrome.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Otofaciocervical syndrome."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Brody myopathy?",
+        "ATP2A1",
+        "\nHint: You can use the following query to get the gene ID of Brody myopathy:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Brody+myopathy]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Brody myopathy?\n",
+                "\nHint: You can use the following query to get the gene ID of Brody myopathy:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Brody+myopathy]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Neurodevelopmental disorder with gait disturbance?",
+        "TCEAL1",
+        "\n1. Get the DNA sequence of the gene \"NEK1\" from the human genome.\n2. Use BLAST to map the DNA sequence to the mouse genome.\n3. Get the DNA sequence of the gene \"NEK1\" from the mouse genome.\n4. Use BLAST to map the DNA sequence to the human genome.\n5. Compare the DNA sequences of the human and mouse genes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Neurodevelopmental disorder with gait disturbance?\n",
+                "\n1. Get the DNA sequence of the gene \"NEK1\" from the human genome.\n2. Use BLAST to map the DNA sequence to the mouse genome.\n3. Get the DNA sequence of the gene \"NEK1\" from the mouse genome.\n4. Use BLAST to map the DNA sequence to the human genome.\n5. Compare the DNA sequences of the human and mouse genes."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?",
+        "POLG",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Mitochondrial%20DNA%20depletion%20syndrome%204A%20Alpers%20type]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Mitochondrial DNA depletion syndrome 4A Alpers type?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Mitochondrial%20DNA%20depletion%20syndrome%204A%20Alpers%20type]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Nephropathy due to CFHR5 deficiency?",
+        "CFHR5",
+        "\n1. Get the DNA sequence of CFHR5 gene from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location in human genome.\n3. Get the gene list of the chromosome location.\n4. Get the gene list of the chromosome location in mouse genome.\n5. Compare the two gene lists and find the genes that are in both lists.\n6. Get the gene information of the genes in both lists.\n7. Get the gene information of the genes in both lists in mouse genome.\n8. Compare the two gene information lists and find the genes that are related to Nephropathy due to CFHR5 deficiency.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Nephropathy due to CFHR5 deficiency?\n",
+                "\n1. Get the DNA sequence of CFHR5 gene from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location in human genome.\n3. Get the gene list of the chromosome location.\n4. Get the gene list of the chromosome location in mouse genome.\n5. Compare the two gene lists and find the genes that are in both lists.\n6. Get the gene information of the genes in both lists.\n7. Get the gene information of the genes in both lists in mouse genome.\n8. Compare the two gene information lists and find the genes that are related to Nephropathy due to CFHR5 deficiency."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Achromatopsia?",
+        "CNGA3, CNGB3, GNAT2, PDE6H, ATF6",
+        "\nHint: You can use the following query to get the gene ID of Achromatopsia:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Achromatopsia]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Achromatopsia?\n",
+                "\nHint: You can use the following query to get the gene ID of Achromatopsia:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Achromatopsia]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Hyperphenylalaninemia?",
+        "PTS, GCH1, QDPR, PCBD1, DNAJC12, PAH",
+        "\nHyperphenylalaninemia is a genetic disorder that causes an amino acid called phenylalanine to build up in the body.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Hyperphenylalaninemia?\n",
+                "\nHyperphenylalaninemia is a genetic disorder that causes an amino acid called phenylalanine to build up in the body."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to EDICT syndrome?",
+        "MIR184",
+        "\nEDICT syndrome is a rare genetic disorder characterized by epilepsy, developmental delay, intellectual disability,\ncerebellar ataxia, and autism spectrum disorder.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to EDICT syndrome?\n",
+                "\nEDICT syndrome is a rare genetic disorder characterized by epilepsy, developmental delay, intellectual disability,\ncerebellar ataxia, and autism spectrum disorder."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Gastrointestinal defects and immunodeficiency syndrome?",
+        "PI4KA, TTC7A",
+        "\nHint: You can use the following keywords to search for related genes:\n\"Gastrointestinal defects and immunodeficiency syndrome\"[All Fields] AND \"Homo sapiens\"[Organism]",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Gastrointestinal defects and immunodeficiency syndrome?\n",
+                "\nHint: You can use the following keywords to search for related genes:\n\"Gastrointestinal defects and immunodeficiency syndrome\"[All Fields] AND \"Homo sapiens\"[Organism]"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Cleft palate with ankyloglossia?",
+        "TBX22",
+        "\n1. Find the chromosome location of the gene \"PALB2\" in human.\n2. Find the chromosome location of the gene \"PALB2\" in mouse.\n3. Find the chromosome location of the gene \"PALB2\" in rat.\n4. Find the chromosome location of the gene \"PALB2\" in dog.\n5. Find the chromosome location of the gene \"PALB2\" in cow.\n6. Find the chromosome location of the gene \"PALB2\" in horse.\n7. Find the chromosome location of the gene \"PALB2\" in chicken.\n8. Find the chromosome location of the gene \"PALB2\" in zebrafish.\n9. Find the chromosome location of the gene \"PALB2\" in frog.\n10. Find the chromosome location of the gene \"PALB2\" in fruitfly.\n11. Find the chromosome location of the gene \"PALB2\" in mosquito.\n12. Find the chromosome location of the gene \"PALB2\" in worm.\n13. Find the chromosome location of the gene \"PALB2\" in yeast.\n14. Find the",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Cleft palate with ankyloglossia?\n",
+                "\n1. Find the chromosome location of the gene \"PALB2\" in human.\n2. Find the chromosome location of the gene \"PALB2\" in mouse.\n3. Find the chromosome location of the gene \"PALB2\" in rat.\n4. Find the chromosome location of the gene \"PALB2\" in dog.\n5. Find the chromosome location of the gene \"PALB2\" in cow.\n6. Find the chromosome location of the gene \"PALB2\" in horse.\n7. Find the chromosome location of the gene \"PALB2\" in chicken.\n8. Find the chromosome location of the gene \"PALB2\" in zebrafish.\n9. Find the chromosome location of the gene \"PALB2\" in frog.\n10. Find the chromosome location of the gene \"PALB2\" in fruitfly.\n11. Find the chromosome location of the gene \"PALB2\" in mosquito.\n12. Find the chromosome location of the gene \"PALB2\" in worm.\n13. Find the chromosome location of the gene \"PALB2\" in yeast.\n14. Find the"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?",
+        "DLL1",
+        "\n1. Get the DNA sequence of the gene \"SCN2A\" from the human genome.\n2. Use BLAST to map the DNA sequence to the mouse genome.\n3. Get the DNA sequence of the gene \"Scn2a\" from the mouse genome.\n4. Use BLAST to map the DNA sequence to the human genome.\n5. Compare the DNA sequences of the two genes.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures?\n",
+                "\n1. Get the DNA sequence of the gene \"SCN2A\" from the human genome.\n2. Use BLAST to map the DNA sequence to the mouse genome.\n3. Get the DNA sequence of the gene \"Scn2a\" from the mouse genome.\n4. Use BLAST to map the DNA sequence to the human genome.\n5. Compare the DNA sequences of the two genes."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Spondylocarpotarsal synostosis syndrome?",
+        "FLNB",
+        "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Spondylocarpotarsal%20synostosis%20syndrome]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Spondylocarpotarsal synostosis syndrome?\n",
+                "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Spondylocarpotarsal%20synostosis%20syndrome]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Haim-Munk syndrome?",
+        "CTSC",
+        "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Haim-Munk%20syndrome]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Haim-Munk syndrome?\n",
+                "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Haim-Munk%20syndrome]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Sialidosis?",
+        "NEU1",
+        "\n1. Get the DNA sequence of Sialidosis from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the gene information from NCBI Gene database.\n4. Get the gene information from NCBI Gene database.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Sialidosis?\n",
+                "\n1. Get the DNA sequence of Sialidosis from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the gene information from NCBI Gene database.\n4. Get the gene information from NCBI Gene database."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Siddiqi syndrome?",
+        "FITM2",
+        "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Siddiqi+syndrome]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Siddiqi syndrome?\n",
+                "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Siddiqi+syndrome]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Corneal fleck dystrophy?",
+        "PIKFYVE",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Corneal fleck dystrophy?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Liver failure?",
+        "TRMU",
+        "\n1. Get the DNA sequence of the gene \"Liver failure\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene \"Liver failure\" from NCBI Gene database.\n4. Get the genes located on the same chromosome as the gene \"Liver failure\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Liver failure?\n",
+                "\n1. Get the DNA sequence of the gene \"Liver failure\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene \"Liver failure\" from NCBI Gene database.\n4. Get the genes located on the same chromosome as the gene \"Liver failure\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Proteasome-associated autoinflammatory syndrome?",
+        "PSMB9, PSMG2, POMP, PSMB10",
+        "\nHint: You can use the following keywords to search for related genes:\n\"Proteasome-associated autoinflammatory syndrome\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Proteasome-associated autoinflammatory syndrome?\n",
+                "\nHint: You can use the following keywords to search for related genes:\n\"Proteasome-associated autoinflammatory syndrome\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Orofaciodigital syndrome XIV?",
+        "C2CD3",
+        "\n1. Get the DNA sequence of the gene related to Orofaciodigital syndrome XIV.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Orofaciodigital syndrome XIV.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Orofaciodigital syndrome XIV?\n",
+                "\n1. Get the DNA sequence of the gene related to Orofaciodigital syndrome XIV.\n2. Use BLAST to map the DNA sequence to its chromosome location.\n3. Get the chromosome location of the gene related to Orofaciodigital syndrome XIV."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Trichoepithelioma?",
+        "CYLD",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Trichoepithelioma?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Medullary thyroid carcinoma?",
+        "RET",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Medullary+thyroid+carcinoma]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Medullary thyroid carcinoma?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Medullary+thyroid+carcinoma]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Type diabetes mellitus?",
+        "HNF1B, IL6, GPD2, HMGA1, IRS1, NEUROD1, IL6",
+        "\nHint: You can use the following keywords to search for genes: \"diabetes mellitus type\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Type diabetes mellitus?\n",
+                "\nHint: You can use the following keywords to search for genes: \"diabetes mellitus type\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Buschke-Ollendorff syndrome?",
+        "LEMD3",
+        "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Buschke-Ollendorff+syndrome]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Buschke-Ollendorff syndrome?\n",
+                "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Buschke-Ollendorff+syndrome]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Vascular malformation?",
+        "ELMO2",
+        "\n1. Find the chromosome location of the gene \"Vascular malformation\" in human.\n2. Find the chromosome location of the gene \"Vascular malformation\" in mouse.\n3. Find the chromosome location of the gene \"Vascular malformation\" in rat.\n4. Find the chromosome location of the gene \"Vascular malformation\" in zebrafish.\n5. Find the chromosome location of the gene \"Vascular malformation\" in fruitfly.\n6. Find the chromosome location of the gene \"Vascular malformation\" in nematode.\n7. Find the chromosome location of the gene \"Vascular malformation\" in frog.\n8. Find the chromosome location of the gene \"Vascular malformation\" in chicken.\n9. Find the chromosome location of the gene \"Vascular malformation\" in cow.\n10. Find the chromosome location of the gene \"Vascular malformation\" in dog.\n11. Find the chromosome location of the gene \"Vascular malformation\" in horse.\n12. Find the chromosome location of the gene \"Vascular malformation\" in pig.\n13. Find the chromosome location of the gene \"Vascular malformation\" in rabbit.\n14.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Vascular malformation?\n",
+                "\n1. Find the chromosome location of the gene \"Vascular malformation\" in human.\n2. Find the chromosome location of the gene \"Vascular malformation\" in mouse.\n3. Find the chromosome location of the gene \"Vascular malformation\" in rat.\n4. Find the chromosome location of the gene \"Vascular malformation\" in zebrafish.\n5. Find the chromosome location of the gene \"Vascular malformation\" in fruitfly.\n6. Find the chromosome location of the gene \"Vascular malformation\" in nematode.\n7. Find the chromosome location of the gene \"Vascular malformation\" in frog.\n8. Find the chromosome location of the gene \"Vascular malformation\" in chicken.\n9. Find the chromosome location of the gene \"Vascular malformation\" in cow.\n10. Find the chromosome location of the gene \"Vascular malformation\" in dog.\n11. Find the chromosome location of the gene \"Vascular malformation\" in horse.\n12. Find the chromosome location of the gene \"Vascular malformation\" in pig.\n13. Find the chromosome location of the gene \"Vascular malformation\" in rabbit.\n14."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Acrocallosal syndrome?",
+        "KIF7",
+        "\nHint: You can use the following query to get the gene ID of Acrocallosal syndrome:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Acrocallosal+syndrome]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Acrocallosal syndrome?\n",
+                "\nHint: You can use the following query to get the gene ID of Acrocallosal syndrome:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Acrocallosal+syndrome]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Congenital disorder of deglycosylation?",
+        "NGLY1, MAN2C1",
+        "\n1. Get the gene ID of Congenital disorder of deglycosylation from Entrez Gene.\n2. Get the protein sequence of the gene from Entrez Protein.\n3. Use BLAST to map the protein sequence to its chromosome location.\n4. Get the chromosome location from BLAST results.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Congenital disorder of deglycosylation?\n",
+                "\n1. Get the gene ID of Congenital disorder of deglycosylation from Entrez Gene.\n2. Get the protein sequence of the gene from Entrez Protein.\n3. Use BLAST to map the protein sequence to its chromosome location.\n4. Get the chromosome location from BLAST results."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Spinal muscular atrophy with congenital bone fractures?",
+        "TRIP4, ASCC1",
+        "\n1. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from OMIM.\n2. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n3. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n4. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n5. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n6. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n7. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n8. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n9. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n10. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n11. Get the gene",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Spinal muscular atrophy with congenital bone fractures?\n",
+                "\n1. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from OMIM.\n2. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n3. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n4. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n5. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n6. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n7. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n8. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n9. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n10. Get the gene ID of \"Spinal muscular atrophy with congenital bone fractures\" from NCBI Gene.\n11. Get the gene"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to B-cell immunodeficiency?",
+        "TOP2B",
+        "\nHint: You can use the following keywords to search for related genes:\n\"B-cell immunodeficiency\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to B-cell immunodeficiency?\n",
+                "\nHint: You can use the following keywords to search for related genes:\n\"B-cell immunodeficiency\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?",
+        "ARPC1B",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Immunodeficiency%20with%20inflammatory%20disease%20and%20congenital%20thrombocytopenia]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Immunodeficiency with inflammatory disease and congenital thrombocytopenia?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Immunodeficiency%20with%20inflammatory%20disease%20and%20congenital%20thrombocytopenia]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Split-foot malformation with mesoaxial polydactyly?",
+        "MAP3K20",
+        "\n1. Find the chromosome location of the gene \"SALL1\" in human.\n2. Find the chromosome location of the gene \"SALL1\" in mouse.\n3. Find the chromosome location of the gene \"SALL1\" in chicken.\n4. Find the chromosome location of the gene \"SALL1\" in zebrafish.\n5. Find the chromosome location of the gene \"SALL1\" in fruitfly.\n6. Find the chromosome location of the gene \"SALL1\" in worm.\n7. Find the chromosome location of the gene \"SALL1\" in yeast.\n8. Find the chromosome location of the gene \"SALL1\" in frog.\n9. Find the chromosome location of the gene \"SALL1\" in cow.\n10. Find the chromosome location of the gene \"SALL1\" in dog.\n11. Find the chromosome location of the gene \"SALL1\" in cat.\n12. Find the chromosome location of the gene \"SALL1\" in horse.\n13. Find the chromosome location of the gene \"SALL1\" in pig.\n14. Find the chromosome location of the gene \"SALL1\" in sheep.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Split-foot malformation with mesoaxial polydactyly?\n",
+                "\n1. Find the chromosome location of the gene \"SALL1\" in human.\n2. Find the chromosome location of the gene \"SALL1\" in mouse.\n3. Find the chromosome location of the gene \"SALL1\" in chicken.\n4. Find the chromosome location of the gene \"SALL1\" in zebrafish.\n5. Find the chromosome location of the gene \"SALL1\" in fruitfly.\n6. Find the chromosome location of the gene \"SALL1\" in worm.\n7. Find the chromosome location of the gene \"SALL1\" in yeast.\n8. Find the chromosome location of the gene \"SALL1\" in frog.\n9. Find the chromosome location of the gene \"SALL1\" in cow.\n10. Find the chromosome location of the gene \"SALL1\" in dog.\n11. Find the chromosome location of the gene \"SALL1\" in cat.\n12. Find the chromosome location of the gene \"SALL1\" in horse.\n13. Find the chromosome location of the gene \"SALL1\" in pig.\n14. Find the chromosome location of the gene \"SALL1\" in sheep."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Pigmented nodular adrenocortical disease?",
+        "PRKAR1A, PDE11A, PDE8B",
+        "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Pigmented+nodular+adrenocortical+disease]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Pigmented nodular adrenocortical disease?\n",
+                "\nHint: You can use the following API to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Pigmented+nodular+adrenocortical+disease]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Superoxide dismutase?",
+        "SOD3",
+        "\n1. Use BLAST to find the chromosome location of the gene Superoxide dismutase in human.\n2. Use BLAST to find the chromosome location of the gene Superoxide dismutase in mouse.\n3. Use BLAST to find the chromosome location of the gene Superoxide dismutase in fruit fly.\n4. Use BLAST to find the chromosome location of the gene Superoxide dismutase in zebrafish.\n5. Use BLAST to find the chromosome location of the gene Superoxide dismutase in frog.\n6. Use BLAST to find the chromosome location of the gene Superoxide dismutase in chicken.\n7. Use BLAST to find the chromosome location of the gene Superoxide dismutase in cow.\n8. Use BLAST to find the chromosome location of the gene Superoxide dismutase in dog.\n9. Use BLAST to find the chromosome location of the gene Superoxide dismutase in horse.\n10. Use BLAST to find the chromosome location of the gene Superoxide dismutase in pig.\n11. Use BLAST to find the chromosome location of the gene Superoxide dismutase in sheep.\n12. Use BLAST to find the chromosome",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Superoxide dismutase?\n",
+                "\n1. Use BLAST to find the chromosome location of the gene Superoxide dismutase in human.\n2. Use BLAST to find the chromosome location of the gene Superoxide dismutase in mouse.\n3. Use BLAST to find the chromosome location of the gene Superoxide dismutase in fruit fly.\n4. Use BLAST to find the chromosome location of the gene Superoxide dismutase in zebrafish.\n5. Use BLAST to find the chromosome location of the gene Superoxide dismutase in frog.\n6. Use BLAST to find the chromosome location of the gene Superoxide dismutase in chicken.\n7. Use BLAST to find the chromosome location of the gene Superoxide dismutase in cow.\n8. Use BLAST to find the chromosome location of the gene Superoxide dismutase in dog.\n9. Use BLAST to find the chromosome location of the gene Superoxide dismutase in horse.\n10. Use BLAST to find the chromosome location of the gene Superoxide dismutase in pig.\n11. Use BLAST to find the chromosome location of the gene Superoxide dismutase in sheep.\n12. Use BLAST to find the chromosome"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?",
+        "SCP2",
+        "\n1. PUT the BLAST request for the DNA sequence of the gene related to Leukoencephalopathy with dystonia and motor neuropathy.\n2. GET the results using the RID returned by PUT.\n3. Parse the results and find the chromosome location of the gene.\n4. GET the chromosome sequence of the gene.\n5. Parse the chromosome sequence and find the gene sequence.\n6. PUT the BLAST request for the gene sequence.\n7. GET the results using the RID returned by PUT.\n8. Parse the results and find the chromosome location of the gene.\n9. GET the chromosome sequence of the gene.\n10. Parse the chromosome sequence and find the gene sequence.\n11. Compare the gene sequences of the two species.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Leukoencephalopathy with dystonia and motor neuropathy?\n",
+                "\n1. PUT the BLAST request for the DNA sequence of the gene related to Leukoencephalopathy with dystonia and motor neuropathy.\n2. GET the results using the RID returned by PUT.\n3. Parse the results and find the chromosome location of the gene.\n4. GET the chromosome sequence of the gene.\n5. Parse the chromosome sequence and find the gene sequence.\n6. PUT the BLAST request for the gene sequence.\n7. GET the results using the RID returned by PUT.\n8. Parse the results and find the chromosome location of the gene.\n9. GET the chromosome sequence of the gene.\n10. Parse the chromosome sequence and find the gene sequence.\n11. Compare the gene sequences of the two species."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?",
+        "IL6",
+        "\n1. Get the DNA sequence of the gene \"Intracranial hemorrhage\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location in human genome.\n3. Get the DNA sequence of the chromosome location in human genome.\n4. Use BLAST to map the DNA sequence to its chromosome location in mouse genome.\n5. Get the DNA sequence of the chromosome location in mouse genome.\n6. Use BLAST to map the DNA sequence to its chromosome location in rat genome.\n7. Get the DNA sequence of the chromosome location in rat genome.\n8. Use BLAST to map the DNA sequence to its chromosome location in zebrafish genome.\n9. Get the DNA sequence of the chromosome location in zebrafish genome.\n10. Use BLAST to map the DNA sequence to its chromosome location in fruitfly genome.\n11. Get the DNA sequence of the chromosome location in fruitfly genome.\n12. Use BLAST to map the DNA sequence to its chromosome location in nematode genome.\n13. Get the DNA sequence of the chromosome location in nematode genome.\n14. Use BLAST to map the DNA sequence to its chromosome location in yeast",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Intracranial hemorrhage in brain cerebrovascular malformations?\n",
+                "\n1. Get the DNA sequence of the gene \"Intracranial hemorrhage\" from NCBI Gene database.\n2. Use BLAST to map the DNA sequence to its chromosome location in human genome.\n3. Get the DNA sequence of the chromosome location in human genome.\n4. Use BLAST to map the DNA sequence to its chromosome location in mouse genome.\n5. Get the DNA sequence of the chromosome location in mouse genome.\n6. Use BLAST to map the DNA sequence to its chromosome location in rat genome.\n7. Get the DNA sequence of the chromosome location in rat genome.\n8. Use BLAST to map the DNA sequence to its chromosome location in zebrafish genome.\n9. Get the DNA sequence of the chromosome location in zebrafish genome.\n10. Use BLAST to map the DNA sequence to its chromosome location in fruitfly genome.\n11. Get the DNA sequence of the chromosome location in fruitfly genome.\n12. Use BLAST to map the DNA sequence to its chromosome location in nematode genome.\n13. Get the DNA sequence of the chromosome location in nematode genome.\n14. Use BLAST to map the DNA sequence to its chromosome location in yeast"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Multiple system atrophy?",
+        "COQ2",
+        "\n1. Get the gene ID of Multiple system atrophy from NCBI Gene database.\n2. Get the gene ID of all genes related to Multiple system atrophy from NCBI Gene database.\n3. Get the DNA sequence of all genes related to Multiple system atrophy from NCBI Nucleotide database.\n4. Use BLAST to map the DNA sequence of all genes related to Multiple system atrophy to its chromosome location.",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Multiple system atrophy?\n",
+                "\n1. Get the gene ID of Multiple system atrophy from NCBI Gene database.\n2. Get the gene ID of all genes related to Multiple system atrophy from NCBI Gene database.\n3. Get the DNA sequence of all genes related to Multiple system atrophy from NCBI Nucleotide database.\n4. Use BLAST to map the DNA sequence of all genes related to Multiple system atrophy to its chromosome location."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Cone dystrophy?",
+        "PDE6C, GUCA1A",
+        "\nHint: You can use the following query to get the gene ID of Cone dystrophy:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Cone%20dystrophy]\".",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Cone dystrophy?\n",
+                "\nHint: You can use the following query to get the gene ID of Cone dystrophy:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Cone%20dystrophy]\"."
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Holt-Oram syndrome?",
+        "TBX5",
+        "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Holt-Oram%20syndrome[All%20Fields]&retmode=json]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Holt-Oram syndrome?\n",
+                "\nHint: You can use the following query to get the gene information:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Holt-Oram%20syndrome[All%20Fields]&retmode=json]\""
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Lichtenstein-Knorr syndrome?",
+        "SLC9A1",
+        "\nAnswer:",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Lichtenstein-Knorr syndrome?\n",
+                "\nAnswer:"
+            ]
+        ]
+    ],
+    [
+        "What are genes related to Ablepharon-macrostomia syndrome?",
+        "TWIST2",
+        "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Ablepharon-macrostomia%20syndrome]\"",
+        [
+            [
+                "Hello. Your task is to use NCBI Web APIs to answer genomic questions.\nFor DNA sequences, you can use BLAST by: \"[https://blast.ncbi.nlm.nih.gov/blast/Blast.cgi?CMD={Put|Get}&PROGRAM=blastn&MEGABLAST=on&DATABASE=nt&FORMAT_TYPE={XML|Text}&QUERY={sequence}&HITLIST_SIZE={max_hit_size}]\".\nBLAST maps a specific DNA {sequence} to its chromosome location among different specices.\nYou need to first PUT the BLAST request and then GET the results using the RID returned by PUT.\n\nQuestion: What are genes related to Ablepharon-macrostomia syndrome?\n",
+                "\nHint: You can use the following query to get the gene ID:\n\"[https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=Ablepharon-macrostomia%20syndrome]\""
+            ]
+        ]
+    ]
+]
