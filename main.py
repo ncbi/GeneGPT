@@ -1,19 +1,19 @@
 __author__ = 'qiao'
 
 '''
-teach LLMs to use NCBI API
+GeneGPT: teach LLMs to use NCBI API
 '''
 
 import json
 import openai
-openai.api_key = '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'
+import config
+openai.api_key = config.API_KEY
+
 import os
-import urllib.parse
-import urllib.request
-import requests
 import re
-import time
 import sys
+import time
+import urllib.request
 
 def call_api(url):
 	time.sleep(1)
@@ -107,21 +107,23 @@ def get_prompt_header(mask):
 
 
 if __name__ == '__main__':
-	invalid_tasks = set(['Gene ontology', 'Gene name extraction', 'TF regulation'])
+	# rough number of chars for truncating 
+	# codex accepts 8k tokens ~ 18k chars 
 	cut_length = 18000
 
+	# str_mask is a string of six 0/1 marking whether a in-context learning component is used 
+	# six digits correspond to Dc. 1-2, Dm. 1-4
 	str_mask = sys.argv[1]
 	mask = [bool(int(x)) for x in str_mask]
 	prompt = get_prompt_header(mask)
 
+	# results are saved in the dir of six digits
 	if not os.path.isdir(str_mask):
 		os.mkdir(str_mask)
 
 	# initialize 
 	prev_call = time.time()	
-	#qas = json.load(open('data/newbing_qa.json'))	
-	#qas = json.load(open('data/multihop_qa_into.json'))	
-	qas = json.load(open('data/blast_qa.json'))	
+	qas = json.load(open('data/geneturing.json'))
 	
 	for task, info in qas.items():
 		if os.path.exists(os.path.join(str_mask, f'{task}.json')):
@@ -160,6 +162,9 @@ if __name__ == '__main__':
 				}
 				
 				delta = time.time() - prev_call
+				
+				# codex has a rate limite of 20 requests / min
+				# it's a workaround
 				if delta < 3.1:
 					time.sleep(3.1 - delta)
 
@@ -176,13 +181,9 @@ if __name__ == '__main__':
 
 				prompts.append([q_prompt, text])
 
-				#url_regex = r'\[(https?*)\]'
 				url_regex = r'\[(https?://[^\[\]]+)\]'
 				matches = re.findall(url_regex, text)
 				if matches:
-				#if text[-1:] == ']' and '[' in text and 'http' in text:
-					#left = text.rindex('[')
-					#url = text[left + 1: -1]
 					url = matches[0]
 					
 					# wait till the BLAST is done on NCBI server
@@ -203,7 +204,7 @@ if __name__ == '__main__':
 					output.append([question, answer, text, prompts])
 					break
 
-				# prevent too many calls
+				# prevent dead loops 
 				if num_calls >= 10:
 					output.append([question, answer, 'numError', prompts])
 					break

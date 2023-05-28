@@ -55,9 +55,11 @@ def get_answer(answer, task):
 
 
 if __name__ == '__main__':
+	# all geneturing and genehop disease gene location tasks are automatically evaluated
 	qas = json.load(open('data/geneturing.json'))	
 	qas['Disease gene location'] = json.load(open('data/genehop.json'))['Disease gene location']
-
+	
+	# result dir path to evaluate
 	folder = sys.argv[1]
 
 	for task in glob.glob(os.path.join(folder, '*')):
