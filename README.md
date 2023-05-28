@@ -9,15 +9,71 @@ While large language models (LLMs) have been successfully applied to various tas
 
 ## Requirements
 
+The code has been tested with Python 3.9.13. Please first instlal the required packages by:
+```bash
+pip install -r requirements.txt
+```
 
+You also need an OpenAI API key to run GeneGPT with Codex. Replace the placeholder with your key in `config.py`:
+```bash
+$ cat config.py 
+API_KEY = 'YOUR_OPENAI_API_KEY'
+```
 
 ## Using GeneGPT
 
+After setting up the environment, one can run GeneGPT on GeneTuring by:
+```bash
+python main.py 111111
+```
+where `111111` denotes that all Documentations (Dc.1-2) and Demonstractions (Dm.1-4) are used.
 
+To run GeneGPT-slim, simply use:
+```bash
+python main.py 001001
+```
+which will only use the Dm.1 and Dm.4 for in-context learning.
 
 ## Evaluating GeneGPT
 
+One can evaluate the results by running:
+```bash
+python evaluate.py ${RESULT_DIRECTORY}
+```
 
+For example, we also put our experimental results in `geneturing_results` and `geneturing_results`. By running:
+```bash
+python evaluate.py geneturing_results/001001/
+```
+The user can get the evaluation results of GeneGPT-slim:
+```bash
+Evaluating geneturing_results/001001/Gene alias.json
+0.84
+
+Evaluating geneturing_results/001001/Gene disease association.json
+0.6613333333333332
+
+Evaluating geneturing_results/001001/Gene location.json
+0.66
+
+Evaluating geneturing_results/001001/Human genome DNA aligment.json
+0.44
+
+Evaluating geneturing_results/001001/Multi-species DNA aligment.json
+0.88
+
+Evaluating geneturing_results/001001/Gene name conversion.json
+1.0
+
+Evaluating geneturing_results/001001/Protein-coding genes.json
+1.0
+
+Evaluating geneturing_results/001001/Gene SNP association.json
+1.0
+
+Evaluating geneturing_results/001001/SNP location.json
+0.98
+```
 
 ## Acknowledgments
 
