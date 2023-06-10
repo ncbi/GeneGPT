@@ -131,9 +131,6 @@ if __name__ == '__main__':
 			preds = json.load(open(os.path.join(str_mask, f'{task}.json')))
 			if len(preds) == 50: continue
 		
-		if task in invalid_tasks:
-			continue
-
 		output = []
 		print(f'Doing task {task}')
 		for question, answer in info.items():
