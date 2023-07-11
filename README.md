@@ -1,7 +1,7 @@
 # GeneGPT
 
 This directory contains code and data for GeneGPT, a tool-augmented LLM for improved access to biomedical information. 
-![image](https://github.com/ncbi/GeneGPT/assets/32558774/c7b894eb-5ce3-4aa3-adee-01f6c2801c46)
+![image](https://github.com/ncbi/GeneGPT/assets/32558774/a18e142f-0742-4c14-a45f-386e9811c85d)
 
 # Introduction
 
