@@ -1,0 +1,99 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "NCBI E-utilities API",
+    "description": "Provides programmatic access to NCBI's data and resources.",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+    }
+  ],
+  "paths": {
+    "/esearch.fcgi": {
+      "get": {
+        "description": "Performs a search in an NCBI database.",
+        "operationId": "ESearch",
+        "parameters": [
+          {
+            "name": "db",
+            "in": "query",
+            "description": "Database to search. Examples: 'pubmed' for literature citations, 'protein' for protein sequences, 'gene' for gene-specific data.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "term",
+            "in": "query",
+            "description": "Search term.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "deprecated": false
+      }
+    },
+    "/efetch.fcgi": {
+      "get": {
+        "description": "Fetches a specific record from an NCBI database.",
+        "operationId": "EFetch",
+        "parameters": [
+          {
+            "name": "db",
+            "in": "query",
+            "description": "Database to fetch from. Examples: 'nucleotide' for nucleotide sequences, 'sequences' for a comprehensive set of sequences.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "id",
+            "in": "query",
+            "description": "ID of the record to fetch.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "deprecated": false
+      }
+    },
+    "/esummary.fcgi": {
+      "get": {
+        "description": "Retrieves document summaries from a given database.",
+        "operationId": "ESummary",
+        "parameters": [
+          {
+            "name": "db",
+            "in": "query",
+            "description": "Database to retrieve summaries from. Examples: 'assembly' for genome assembly data, 'biosample' for biological sample information.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "id",
+            "in": "query",
+            "description": "List of IDs for which summaries are requested.",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "deprecated": false
+      }
+    }
+  },
+  "components": {
+    "schemas": {}
+  }
+}
