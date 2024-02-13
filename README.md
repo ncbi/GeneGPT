@@ -26,7 +26,7 @@ After setting up the environment, one can run GeneGPT on GeneTuring by:
 ```bash
 python main.py 111111
 ```
-where `111111` denotes that all Documentations (Dc.1-2) and Demonstractions (Dm.1-4) are used.
+where `111111` denotes that all Documentations (Dc.1-2) and Demonstrations (Dm.1-4) are used.
 
 To run GeneGPT-slim, simply use:
 ```bash
