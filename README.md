@@ -9,7 +9,7 @@ While large language models (LLMs) have been successfully applied to various tas
 
 ## Requirements
 
-The code has been tested with Python 3.9.13. Please first instlal the required packages by:
+The code has been tested with Python 3.9.13. Please first install the required packages by:
 ```bash
 pip install -r requirements.txt
 ```
