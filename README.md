@@ -87,12 +87,14 @@ This tool shows the results of research conducted in the Computational Biology B
 
 If you find this repo helpful, please cite GeneGPT by:
 ```bibtex
-@misc{jin2023genegpt,
-      title={GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information}, 
-      author={Qiao Jin and Yifan Yang and Qingyu Chen and Zhiyong Lu},
-      year={2023},
-      eprint={2304.09667},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{jin2024genegpt,
+  title={Genegpt: Augmenting large language models with domain tools for improved access to biomedical information},
+  author={Jin, Qiao and Yang, Yifan and Chen, Qingyu and Lu, Zhiyong},
+  journal={Bioinformatics},
+  volume={40},
+  number={2},
+  pages={btae075},
+  year={2024},
+  publisher={Oxford University Press}
 }
 ```
